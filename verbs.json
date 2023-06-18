@@ -7,7 +7,6 @@
         "simple_past": "accepted",
         "present": "accept",
         "continuous_present": "accepting",
-        "translation": "aceptar",
         "type": "regular",
         "verb": "accept"
     },
@@ -19,7 +18,6 @@
         "simple_past": "added",
         "present": "add",
         "continuous_present": "adding",
-        "translation": "añadir",
         "type": "regular",
         "verb": "add"
     },
@@ -31,7 +29,6 @@
         "simple_past": "admired",
         "present": "admire",
         "continuous_present": "admiring",
-        "translation": "admirar",
         "type": "regular",
         "verb": "admire"
     },
@@ -43,7 +40,6 @@
         "simple_past": "admitted",
         "present": "admit",
         "continuous_present": "admitting",
-        "translation": "admitir",
         "type": "regular",
         "verb": "admit"
     },
@@ -55,7 +51,6 @@
         "simple_past": "advised",
         "present": "advise",
         "continuous_present": "advising",
-        "translation": "asesorar",
         "type": "regular",
         "verb": "advise"
     },
@@ -67,7 +62,6 @@
         "simple_past": "afforded",
         "present": "afford",
         "continuous_present": "affording",
-        "translation": "permitirse",
         "type": "regular",
         "verb": "afford"
     },
@@ -79,7 +73,6 @@
         "simple_past": "agreed",
         "present": "agree",
         "continuous_present": "agreeing",
-        "translation": "llegar a un acuerdo",
         "type": "regular",
         "verb": "agree"
     },
@@ -91,7 +84,6 @@
         "simple_past": "allowed",
         "present": "allow",
         "continuous_present": "allowing",
-        "translation": "permitir",
         "type": "regular",
         "verb": "allow"
     },
@@ -103,7 +95,6 @@
         "simple_past": "amused",
         "present": "amuse",
         "continuous_present": "amusing",
-        "translation": "entretener",
         "type": "regular",
         "verb": "amuse"
     },
@@ -115,7 +106,6 @@
         "simple_past": "analt",
         "present": "analght",
         "continuous_present": "analghting",
-        "translation": "analizar",
         "type": "regular",
         "verb": "analyze"
     },
@@ -127,7 +117,6 @@
         "simple_past": "announced",
         "present": "announce",
         "continuous_present": "announcing",
-        "translation": "anunciar",
         "type": "regular",
         "verb": "announce"
     },
@@ -139,7 +128,6 @@
         "simple_past": "annoyed",
         "present": "annoy",
         "continuous_present": "annoying",
-        "translation": "molestar",
         "type": "regular",
         "verb": "annoy"
     },
@@ -151,7 +139,6 @@
         "simple_past": "answered",
         "present": "answer",
         "continuous_present": "answering",
-        "translation": "responder",
         "type": "regular",
         "verb": "answer"
     },
@@ -163,7 +150,6 @@
         "simple_past": "apologt",
         "present": "apologght",
         "continuous_present": "apologghting",
-        "translation": "pedir disculpas",
         "type": "regular",
         "verb": "apologise"
     },
@@ -175,7 +161,6 @@
         "simple_past": "appeared",
         "present": "appear",
         "continuous_present": "appearing",
-        "translation": "Aparecer",
         "type": "regular",
         "verb": "appear"
     },
@@ -187,7 +172,6 @@
         "simple_past": "applauded",
         "present": "applaud",
         "continuous_present": "applauding",
-        "translation": "aplaudir",
         "type": "regular",
         "verb": "applaud"
     },
@@ -199,7 +183,6 @@
         "simple_past": "appreciated",
         "present": "appreciate",
         "continuous_present": "appreciating",
-        "translation": "apreciar",
         "type": "regular",
         "verb": "appreciate"
     },
@@ -211,7 +194,6 @@
         "simple_past": "approved",
         "present": "approve",
         "continuous_present": "approving",
-        "translation": "aprobar",
         "type": "regular",
         "verb": "approve"
     },
@@ -223,7 +205,6 @@
         "simple_past": "argued",
         "present": "argue",
         "continuous_present": "arguing",
-        "translation": "discutir",
         "type": "regular",
         "verb": "argue"
     },
@@ -235,7 +216,6 @@
         "simple_past": "arranged",
         "present": "arrange",
         "continuous_present": "arranging",
-        "translation": "organizar",
         "type": "regular",
         "verb": "arrange"
     },
@@ -247,7 +227,6 @@
         "simple_past": "arrested",
         "present": "arrest",
         "continuous_present": "arresting",
-        "translation": "arrestar",
         "type": "regular",
         "verb": "arrest"
     },
@@ -259,7 +238,6 @@
         "simple_past": "arrived",
         "present": "arrive",
         "continuous_present": "arriving",
-        "translation": "llegar",
         "type": "regular",
         "verb": "arrive"
     },
@@ -271,7 +249,6 @@
         "simple_past": "asked",
         "present": "ask",
         "continuous_present": "asking",
-        "translation": "pedir",
         "type": "regular",
         "verb": "ask"
     },
@@ -283,7 +260,6 @@
         "simple_past": "attached",
         "present": "attach",
         "continuous_present": "attaching",
-        "translation": "adjuntar",
         "type": "regular",
         "verb": "attach"
     },
@@ -295,7 +271,6 @@
         "simple_past": "attacked",
         "present": "attack",
         "continuous_present": "attacking",
-        "translation": "atacar",
         "type": "regular",
         "verb": "attack"
     },
@@ -307,7 +282,6 @@
         "simple_past": "attempted",
         "present": "attempt",
         "continuous_present": "attempting",
-        "translation": "intentar",
         "type": "regular",
         "verb": "attempt"
     },
@@ -319,7 +293,6 @@
         "simple_past": "attended",
         "present": "attend",
         "continuous_present": "attending",
-        "translation": "asistir",
         "type": "regular",
         "verb": "attend"
     },
@@ -331,7 +304,6 @@
         "simple_past": "attracted",
         "present": "attract",
         "continuous_present": "attracting",
-        "translation": "atraer",
         "type": "regular",
         "verb": "attract"
     },
@@ -343,7 +315,6 @@
         "simple_past": "avoided",
         "present": "avoid",
         "continuous_present": "avoiding",
-        "translation": "evitar",
         "type": "regular",
         "verb": "avoid"
     },
@@ -355,7 +326,6 @@
         "simple_past": "baked",
         "present": "bake",
         "continuous_present": "baking",
-        "translation": "hornear",
         "type": "regular",
         "verb": "bake"
     },
@@ -367,7 +337,6 @@
         "simple_past": "balanced",
         "present": "balance",
         "continuous_present": "balancing",
-        "translation": "equilibrar",
         "type": "regular",
         "verb": "balance"
     },
@@ -379,7 +348,6 @@
         "simple_past": "banned",
         "present": "ban",
         "continuous_present": "banning",
-        "translation": "prohibición",
         "type": "regular",
         "verb": "ban"
     },
@@ -391,7 +359,6 @@
         "simple_past": "banged",
         "present": "bang",
         "continuous_present": "banging",
-        "translation": "explosión",
         "type": "regular",
         "verb": "bang"
     },
@@ -403,7 +370,6 @@
         "simple_past": "bathed",
         "present": "bathe",
         "continuous_present": "bathing",
-        "translation": "bañarse",
         "type": "regular",
         "verb": "bathe"
     },
@@ -415,7 +381,6 @@
         "simple_past": "was",
         "present": "am",
         "continuous_present": "being",
-        "translation": "ser",
         "type": "irregular",
         "verb": "be"
     },
@@ -427,7 +392,6 @@
         "simple_past": "beat",
         "present": "beat",
         "continuous_present": "beating",
-        "translation": "golpear",
         "type": "irregular",
         "verb": "beat"
     },
@@ -439,7 +403,6 @@
         "simple_past": "became",
         "present": "become",
         "continuous_present": "becoming",
-        "translation": "volverse",
         "type": "irregular",
         "verb": "become"
     },
@@ -451,7 +414,6 @@
         "simple_past": "begged",
         "present": "beg",
         "continuous_present": "begging",
-        "translation": "mendigar",
         "type": "regular",
         "verb": "beg"
     },
@@ -463,7 +425,6 @@
         "simple_past": "began",
         "present": "begin",
         "continuous_present": "beginning",
-        "translation": "empezar",
         "type": "irregular",
         "verb": "begin"
     },
@@ -475,7 +436,6 @@
         "simple_past": "behaved",
         "present": "behave",
         "continuous_present": "behaving",
-        "translation": "comportarse",
         "type": "regular",
         "verb": "behave"
     },
@@ -487,7 +447,6 @@
         "simple_past": "belonged",
         "present": "belong",
         "continuous_present": "belonging",
-        "translation": "pertenecer a",
         "type": "regular",
         "verb": "belong"
     },
@@ -499,7 +458,6 @@
         "simple_past": "bet/betted",
         "present": "bet",
         "continuous_present": "betting",
-        "translation": "apostar",
         "type": "irregular",
         "verb": "bet"
     },
@@ -511,7 +469,6 @@
         "simple_past": "bid/bade",
         "present": "bid",
         "continuous_present": "bidding",
-        "translation": "ofertar",
         "type": "irregular",
         "verb": "bid"
     },
@@ -523,7 +480,6 @@
         "simple_past": "bit",
         "present": "bite",
         "continuous_present": "biting",
-        "translation": "morder",
         "type": "irregular",
         "verb": "bite"
     },
@@ -535,7 +491,6 @@
         "simple_past": "blessed",
         "present": "bless",
         "continuous_present": "blessing",
-        "translation": "bendecir",
         "type": "regular",
         "verb": "bless"
     },
@@ -547,7 +502,6 @@
         "simple_past": "blinded",
         "present": "blind",
         "continuous_present": "blinding",
-        "translation": "cegar",
         "type": "regular",
         "verb": "blind"
     },
@@ -559,7 +513,6 @@
         "simple_past": "blinked",
         "present": "blink",
         "continuous_present": "blinking",
-        "translation": "parpadear",
         "type": "regular",
         "verb": "blink"
     },
@@ -571,7 +524,6 @@
         "simple_past": "blew",
         "present": "blow",
         "continuous_present": "blowing",
-        "translation": "soplar",
         "type": "irregular",
         "verb": "blow"
     },
@@ -583,7 +535,6 @@
         "simple_past": "blushed",
         "present": "blush",
         "continuous_present": "blushing",
-        "translation": "ruborizarse",
         "type": "regular",
         "verb": "blush"
     },
@@ -595,7 +546,6 @@
         "simple_past": "boasted",
         "present": "boast",
         "continuous_present": "boasting",
-        "translation": "presumir",
         "type": "regular",
         "verb": "boast"
     },
@@ -607,7 +557,6 @@
         "simple_past": "boiled",
         "present": "boil",
         "continuous_present": "boiling",
-        "translation": "hervir",
         "type": "regular",
         "verb": "boil"
     },
@@ -619,7 +568,6 @@
         "simple_past": "bombed",
         "present": "bomb",
         "continuous_present": "bombing",
-        "translation": "bombardear",
         "type": "regular",
         "verb": "bomb"
     },
@@ -631,7 +579,6 @@
         "simple_past": "booked",
         "present": "book",
         "continuous_present": "booking",
-        "translation": "reservar",
         "type": "regular",
         "verb": "book"
     },
@@ -643,7 +590,6 @@
         "simple_past": "bored",
         "present": "bore",
         "continuous_present": "boring",
-        "translation": "aburrir",
         "type": "regular",
         "verb": "bore"
     },
@@ -655,7 +601,6 @@
         "simple_past": "borroed",
         "present": "borroe",
         "continuous_present": "borroing",
-        "translation": "pedir prestado",
         "type": "regular",
         "verb": "borrow"
     },
@@ -667,7 +612,6 @@
         "simple_past": "bounced",
         "present": "bounce",
         "continuous_present": "bouncing",
-        "translation": "rebotar",
         "type": "regular",
         "verb": "bounce"
     },
@@ -679,7 +623,6 @@
         "simple_past": "bowed",
         "present": "bow",
         "continuous_present": "bowing",
-        "translation": "inclinarse",
         "type": "regular",
         "verb": "bow"
     },
@@ -691,7 +634,6 @@
         "simple_past": "boxed",
         "present": "box",
         "continuous_present": "boxing",
-        "translation": "empacar",
         "type": "regular",
         "verb": "box"
     },
@@ -703,7 +645,6 @@
         "simple_past": "braked",
         "present": "brake",
         "continuous_present": "braking",
-        "translation": "frenar",
         "type": "regular",
         "verb": "brake"
     },
@@ -715,7 +656,6 @@
         "simple_past": "broke",
         "present": "break",
         "continuous_present": "breaking",
-        "translation": "romper",
         "type": "irregular",
         "verb": "break"
     },
@@ -727,7 +667,6 @@
         "simple_past": "breathed",
         "present": "breathe",
         "continuous_present": "breathing",
-        "translation": "respirar",
         "type": "regular",
         "verb": "breathe"
     },
@@ -739,7 +678,6 @@
         "simple_past": "brought",
         "present": "bring",
         "continuous_present": "bringing",
-        "translation": "traer",
         "type": "irregular",
         "verb": "bring"
     },
@@ -751,7 +689,6 @@
         "simple_past": "broadcast",
         "present": "broadcast",
         "continuous_present": "broadcasting",
-        "translation": "transmitir",
         "type": "irregular",
         "verb": "broadcast"
     },
@@ -763,7 +700,6 @@
         "simple_past": "bruised",
         "present": "bruise",
         "continuous_present": "bruising",
-        "translation": "herir",
         "type": "regular",
         "verb": "bruise"
     },
@@ -775,7 +711,6 @@
         "simple_past": "brushed",
         "present": "brush",
         "continuous_present": "brushing",
-        "translation": "cepillar",
         "type": "regular",
         "verb": "brush"
     },
@@ -787,7 +722,6 @@
         "simple_past": "bubbled",
         "present": "bubble",
         "continuous_present": "bubbling",
-        "translation": "burbujear",
         "type": "regular",
         "verb": "bubble"
     },
@@ -799,7 +733,6 @@
         "simple_past": "built",
         "present": "build",
         "continuous_present": "building",
-        "translation": "construir",
         "type": "irregular",
         "verb": "build"
     },
@@ -811,7 +744,6 @@
         "simple_past": "bumped",
         "present": "bump",
         "continuous_present": "bumping",
-        "translation": "golpear",
         "type": "regular",
         "verb": "bump"
     },
@@ -823,7 +755,6 @@
         "simple_past": "burned",
         "present": "burn",
         "continuous_present": "burning",
-        "translation": "quemar",
         "type": "irregular",
         "verb": "burn"
     },
@@ -835,7 +766,6 @@
         "simple_past": "buried",
         "present": "bury",
         "continuous_present": "burying",
-        "translation": "enterrar",
         "type": "regular",
         "verb": "bury"
     },
@@ -847,7 +777,6 @@
         "simple_past": "bought",
         "present": "buy",
         "continuous_present": "buying",
-        "translation": "comprar",
         "type": "irregular",
         "verb": "buy"
     },
@@ -859,7 +788,6 @@
         "simple_past": "calculated",
         "present": "calculate",
         "continuous_present": "calculating",
-        "translation": "calcular",
         "type": "regular",
         "verb": "calculate"
     },
@@ -871,7 +799,6 @@
         "simple_past": "called",
         "present": "call",
         "continuous_present": "calling",
-        "translation": "llamar",
         "type": "regular",
         "verb": "call"
     },
@@ -883,7 +810,6 @@
         "simple_past": "camped",
         "present": "camp",
         "continuous_present": "camping",
-        "translation": "acampar",
         "type": "regular",
         "verb": "camp"
     },
@@ -895,7 +821,6 @@
         "simple_past": "cared",
         "present": "care",
         "continuous_present": "caring",
-        "translation": "importar",
         "type": "regular",
         "verb": "care"
     },
@@ -907,7 +832,6 @@
         "simple_past": "carried",
         "present": "carry",
         "continuous_present": "carrying",
-        "translation": "llevar",
         "type": "regular",
         "verb": "carry"
     },
@@ -919,7 +843,6 @@
         "simple_past": "carved",
         "present": "carve",
         "continuous_present": "carving",
-        "translation": "esculpir",
         "type": "regular",
         "verb": "carve"
     },
@@ -931,7 +854,6 @@
         "simple_past": "caught",
         "present": "catch",
         "continuous_present": "catching",
-        "translation": "atrapar",
         "type": "irregular",
         "verb": "catch"
     },
@@ -943,7 +865,6 @@
         "simple_past": "caused",
         "present": "cause",
         "continuous_present": "causing",
-        "translation": "causar",
         "type": "regular",
         "verb": "cause"
     },
@@ -955,7 +876,6 @@
         "simple_past": "challenged",
         "present": "challenge",
         "continuous_present": "challenging",
-        "translation": "desafiar",
         "type": "regular",
         "verb": "challenge"
     },
@@ -967,7 +887,6 @@
         "simple_past": "changed",
         "present": "change",
         "continuous_present": "changing",
-        "translation": "cambiar",
         "type": "regular",
         "verb": "change"
     },
@@ -979,7 +898,6 @@
         "simple_past": "charged",
         "present": "charge",
         "continuous_present": "charging",
-        "translation": "cargar",
         "type": "regular",
         "verb": "charge"
     },
@@ -991,7 +909,6 @@
         "simple_past": "chased",
         "present": "chase",
         "continuous_present": "chasing",
-        "translation": "persecución",
         "type": "regular",
         "verb": "chase"
     },
@@ -1003,7 +920,6 @@
         "simple_past": "cheated",
         "present": "cheat",
         "continuous_present": "cheating",
-        "translation": "engañar",
         "type": "regular",
         "verb": "cheat"
     },
@@ -1015,7 +931,6 @@
         "simple_past": "checked",
         "present": "check",
         "continuous_present": "checking",
-        "translation": "verificar",
         "type": "regular",
         "verb": "check"
     },
@@ -1027,7 +942,6 @@
         "simple_past": "cheered",
         "present": "cheer",
         "continuous_present": "cheering",
-        "translation": "animar",
         "type": "regular",
         "verb": "cheer"
     },
@@ -1039,7 +953,6 @@
         "simple_past": "chewed",
         "present": "chew",
         "continuous_present": "chewing",
-        "translation": "masticar",
         "type": "regular",
         "verb": "chew"
     },
@@ -1051,7 +964,6 @@
         "simple_past": "choked",
         "present": "choke",
         "continuous_present": "choking",
-        "translation": "ahogarse",
         "type": "regular",
         "verb": "choke"
     },
@@ -1063,7 +975,6 @@
         "simple_past": "chose",
         "present": "choose",
         "continuous_present": "choosing",
-        "translation": "escoger",
         "type": "irregular",
         "verb": "choose"
     },
@@ -1075,7 +986,6 @@
         "simple_past": "choped",
         "present": "chop",
         "continuous_present": "choping",
-        "translation": "picar",
         "type": "regular",
         "verb": "chop"
     },
@@ -1087,7 +997,6 @@
         "simple_past": "claimed",
         "present": "claim",
         "continuous_present": "claiming",
-        "translation": "Reclamación",
         "type": "regular",
         "verb": "claim"
     },
@@ -1099,7 +1008,6 @@
         "simple_past": "clapped",
         "present": "clap",
         "continuous_present": "clapping",
-        "translation": "aplaudir",
         "type": "regular",
         "verb": "clap"
     },
@@ -1111,7 +1019,6 @@
         "simple_past": "cleaned",
         "present": "clean",
         "continuous_present": "cleaning",
-        "translation": "limpiar",
         "type": "regular",
         "verb": "clean"
     },
@@ -1123,7 +1030,6 @@
         "simple_past": "cleared",
         "present": "clear",
         "continuous_present": "clearing",
-        "translation": "limpiar",
         "type": "regular",
         "verb": "clear"
     },
@@ -1135,7 +1041,6 @@
         "simple_past": "clipped",
         "present": "clip",
         "continuous_present": "clipping",
-        "translation": "acortar",
         "type": "regular",
         "verb": "clip"
     },
@@ -1147,7 +1052,6 @@
         "simple_past": "closed",
         "present": "close",
         "continuous_present": "closing",
-        "translation": "cerrar",
         "type": "regular",
         "verb": "close"
     },
@@ -1159,7 +1063,6 @@
         "simple_past": "coached",
         "present": "coach",
         "continuous_present": "coaching",
-        "translation": "entrenar",
         "type": "regular",
         "verb": "coach"
     },
@@ -1171,7 +1074,6 @@
         "simple_past": "coiled",
         "present": "coil",
         "continuous_present": "coiling",
-        "translation": "contraerse",
         "type": "regular",
         "verb": "coil"
     },
@@ -1183,7 +1085,6 @@
         "simple_past": "collected",
         "present": "collect",
         "continuous_present": "collecting",
-        "translation": "recoger",
         "type": "regular",
         "verb": "collect"
     },
@@ -1195,7 +1096,6 @@
         "simple_past": "coloured",
         "present": "colour",
         "continuous_present": "colouring",
-        "translation": "colorear",
         "type": "regular",
         "verb": "colour"
     },
@@ -1207,7 +1107,6 @@
         "simple_past": "combed",
         "present": "comb",
         "continuous_present": "combing",
-        "translation": "peinar",
         "type": "regular",
         "verb": "comb"
     },
@@ -1219,7 +1118,6 @@
         "simple_past": "came",
         "present": "come",
         "continuous_present": "coming",
-        "translation": "venir",
         "type": "irregular",
         "verb": "come"
     },
@@ -1231,7 +1129,6 @@
         "simple_past": "communicated",
         "present": "communicate",
         "continuous_present": "communicating",
-        "translation": "comunicar",
         "type": "regular",
         "verb": "communicate"
     },
@@ -1243,7 +1140,6 @@
         "simple_past": "compared",
         "present": "compare",
         "continuous_present": "comparing",
-        "translation": "comparar",
         "type": "regular",
         "verb": "compare"
     },
@@ -1255,7 +1151,6 @@
         "simple_past": "competed",
         "present": "compete",
         "continuous_present": "competing",
-        "translation": "competir",
         "type": "regular",
         "verb": "compete"
     },
@@ -1267,7 +1162,6 @@
         "simple_past": "complaied",
         "present": "complaie",
         "continuous_present": "complaiing",
-        "translation": "quejar",
         "type": "regular",
         "verb": "complain"
     },
@@ -1279,7 +1173,6 @@
         "simple_past": "completed",
         "present": "complete",
         "continuous_present": "completing",
-        "translation": "completar",
         "type": "regular",
         "verb": "complete"
     },
@@ -1291,7 +1184,6 @@
         "simple_past": "concentrated",
         "present": "concentrate",
         "continuous_present": "concentrating",
-        "translation": "concentrarse",
         "type": "regular",
         "verb": "concentrate"
     },
@@ -1303,7 +1195,6 @@
         "simple_past": "concerned",
         "present": "concern",
         "continuous_present": "concerning",
-        "translation": "preocupación",
         "type": "regular",
         "verb": "concern"
     },
@@ -1315,7 +1206,6 @@
         "simple_past": "confessed",
         "present": "confess",
         "continuous_present": "confessing",
-        "translation": "confesar",
         "type": "regular",
         "verb": "confess"
     },
@@ -1327,7 +1217,6 @@
         "simple_past": "confused",
         "present": "confuse",
         "continuous_present": "confusing",
-        "translation": "confundir",
         "type": "regular",
         "verb": "confuse"
     },
@@ -1339,7 +1228,6 @@
         "simple_past": "connected",
         "present": "connect",
         "continuous_present": "connecting",
-        "translation": "conectar",
         "type": "regular",
         "verb": "connect"
     },
@@ -1351,7 +1239,6 @@
         "simple_past": "considered",
         "present": "consider",
         "continuous_present": "considering",
-        "translation": "considerar",
         "type": "regular",
         "verb": "consider"
     },
@@ -1363,7 +1250,6 @@
         "simple_past": "consised",
         "present": "consise",
         "continuous_present": "consising",
-        "translation": "consistir",
         "type": "regular",
         "verb": "consist"
     },
@@ -1375,7 +1261,6 @@
         "simple_past": "contained",
         "present": "contain",
         "continuous_present": "containing",
-        "translation": "contener",
         "type": "regular",
         "verb": "contain"
     },
@@ -1387,7 +1272,6 @@
         "simple_past": "continued",
         "present": "continue",
         "continuous_present": "continuing",
-        "translation": "Seguir",
         "type": "regular",
         "verb": "continue"
     },
@@ -1399,7 +1283,6 @@
         "simple_past": "copied",
         "present": "copy",
         "continuous_present": "copying",
-        "translation": "Copiar",
         "type": "regular",
         "verb": "copy"
     },
@@ -1411,7 +1294,6 @@
         "simple_past": "corrected",
         "present": "correct",
         "continuous_present": "correcting",
-        "translation": "corregir",
         "type": "regular",
         "verb": "correct"
     },
@@ -1423,7 +1305,6 @@
         "simple_past": "costed",
         "present": "cost",
         "continuous_present": "costing",
-        "translation": "Costar",
         "type": "irregular",
         "verb": "cost"
     },
@@ -1435,7 +1316,6 @@
         "simple_past": "coughed",
         "present": "cough",
         "continuous_present": "coughing",
-        "translation": "toser",
         "type": "regular",
         "verb": "cough"
     },
@@ -1447,7 +1327,6 @@
         "simple_past": "counted",
         "present": "count",
         "continuous_present": "counting",
-        "translation": "contar",
         "type": "regular",
         "verb": "count"
     },
@@ -1459,7 +1338,6 @@
         "simple_past": "covered",
         "present": "cover",
         "continuous_present": "covering",
-        "translation": "cubrir",
         "type": "regular",
         "verb": "cover"
     },
@@ -1471,7 +1349,6 @@
         "simple_past": "cracked",
         "present": "crack",
         "continuous_present": "cracking",
-        "translation": "romper",
         "type": "regular",
         "verb": "crack"
     },
@@ -1483,7 +1360,6 @@
         "simple_past": "crashed",
         "present": "crash",
         "continuous_present": "crashing",
-        "translation": "chocar",
         "type": "regular",
         "verb": "crash"
     },
@@ -1495,7 +1371,6 @@
         "simple_past": "crawled",
         "present": "crawl",
         "continuous_present": "crawling",
-        "translation": "gatear",
         "type": "regular",
         "verb": "crawl"
     },
@@ -1507,7 +1382,6 @@
         "simple_past": "crossed",
         "present": "cross",
         "continuous_present": "crossing",
-        "translation": "cruzar",
         "type": "regular",
         "verb": "cross"
     },
@@ -1519,7 +1393,6 @@
         "simple_past": "cried",
         "present": "cry",
         "continuous_present": "crying",
-        "translation": "llorar",
         "type": "regular",
         "verb": "cry"
     },
@@ -1531,7 +1404,6 @@
         "simple_past": "ct",
         "present": "cght",
         "continuous_present": "cghting",
-        "translation": "curar",
         "type": "regular",
         "verb": "cure"
     },
@@ -1543,7 +1415,6 @@
         "simple_past": "curled",
         "present": "curl",
         "continuous_present": "curling",
-        "translation": "curvar",
         "type": "regular",
         "verb": "curl"
     },
@@ -1555,7 +1426,6 @@
         "simple_past": "cut",
         "present": "cut",
         "continuous_present": "cutting",
-        "translation": "cortar",
         "type": "irregular",
         "verb": "cut"
     },
@@ -1567,7 +1437,6 @@
         "simple_past": "dammed",
         "present": "dam",
         "continuous_present": "damming",
-        "translation": "represar",
         "type": "regular",
         "verb": "dam"
     },
@@ -1579,7 +1448,6 @@
         "simple_past": "damaged",
         "present": "damage",
         "continuous_present": "damaging",
-        "translation": "dañar",
         "type": "regular",
         "verb": "damage"
     },
@@ -1591,7 +1459,6 @@
         "simple_past": "danced",
         "present": "dance",
         "continuous_present": "dancing",
-        "translation": "bailar",
         "type": "regular",
         "verb": "dance"
     },
@@ -1603,7 +1470,6 @@
         "simple_past": "dared",
         "present": "dare",
         "continuous_present": "daring",
-        "translation": "atreverse",
         "type": "regular",
         "verb": "dare"
     },
@@ -1615,7 +1481,6 @@
         "simple_past": "decayed",
         "present": "decay",
         "continuous_present": "decaying",
-        "translation": "decaer",
         "type": "regular",
         "verb": "decay"
     },
@@ -1627,7 +1492,6 @@
         "simple_past": "deceived",
         "present": "deceive",
         "continuous_present": "deceiving",
-        "translation": "engañar",
         "type": "regular",
         "verb": "deceive"
     },
@@ -1639,7 +1503,6 @@
         "simple_past": "decided",
         "present": "decide",
         "continuous_present": "deciding",
-        "translation": "decidir",
         "type": "regular",
         "verb": "decide"
     },
@@ -1651,7 +1514,6 @@
         "simple_past": "decorated",
         "present": "decorate",
         "continuous_present": "decorating",
-        "translation": "Decorar",
         "type": "regular",
         "verb": "decorate"
     },
@@ -1663,7 +1525,6 @@
         "simple_past": "delayed",
         "present": "delay",
         "continuous_present": "delaying",
-        "translation": "retrasar",
         "type": "regular",
         "verb": "delay"
     },
@@ -1675,7 +1536,6 @@
         "simple_past": "delivered",
         "present": "deliver",
         "continuous_present": "delivering",
-        "translation": "entregar",
         "type": "regular",
         "verb": "deliver"
     },
@@ -1687,7 +1547,6 @@
         "simple_past": "depened",
         "present": "depene",
         "continuous_present": "depening",
-        "translation": "depender",
         "type": "regular",
         "verb": "depend"
     },
@@ -1699,7 +1558,6 @@
         "simple_past": "described",
         "present": "describe",
         "continuous_present": "describing",
-        "translation": "describir",
         "type": "regular",
         "verb": "describe"
     },
@@ -1711,7 +1569,6 @@
         "simple_past": "deserved",
         "present": "deserve",
         "continuous_present": "deserving",
-        "translation": "merecer",
         "type": "regular",
         "verb": "deserve"
     },
@@ -1723,7 +1580,6 @@
         "simple_past": "destroyed",
         "present": "destroy",
         "continuous_present": "destroying",
-        "translation": "destruir",
         "type": "regular",
         "verb": "destroy"
     },
@@ -1735,7 +1591,6 @@
         "simple_past": "detected",
         "present": "detect",
         "continuous_present": "detecting",
-        "translation": "detectar",
         "type": "regular",
         "verb": "detect"
     },
@@ -1747,7 +1602,6 @@
         "simple_past": "developed",
         "present": "develop",
         "continuous_present": "developing",
-        "translation": "desarrollar",
         "type": "regular",
         "verb": "develop"
     },
@@ -1759,7 +1613,6 @@
         "simple_past": "dug",
         "present": "dig",
         "continuous_present": "digging",
-        "translation": "cavar",
         "type": "irregular",
         "verb": "dig"
     },
@@ -1771,7 +1624,6 @@
         "simple_past": "disagreed",
         "present": "disagree",
         "continuous_present": "disagreeing",
-        "translation": "discrepar",
         "type": "regular",
         "verb": "disagree"
     },
@@ -1783,7 +1635,6 @@
         "simple_past": "disappeared",
         "present": "disappear",
         "continuous_present": "disappearing",
-        "translation": "desaparecer",
         "type": "regular",
         "verb": "disappear"
     },
@@ -1795,7 +1646,6 @@
         "simple_past": "disapprt",
         "present": "disapprght",
         "continuous_present": "disapprghting",
-        "translation": "desaprobar",
         "type": "regular",
         "verb": "disapprove"
     },
@@ -1807,7 +1657,6 @@
         "simple_past": "disarmed",
         "present": "disarm",
         "continuous_present": "disarming",
-        "translation": "desarmar",
         "type": "regular",
         "verb": "disarm"
     },
@@ -1819,7 +1668,6 @@
         "simple_past": "discovered",
         "present": "discover",
         "continuous_present": "discovering",
-        "translation": "descubrir",
         "type": "regular",
         "verb": "discover"
     },
@@ -1831,7 +1679,6 @@
         "simple_past": "disliked",
         "present": "dislike",
         "continuous_present": "disliking",
-        "translation": "disgustar",
         "type": "regular",
         "verb": "dislike"
     },
@@ -1843,7 +1690,6 @@
         "simple_past": "divided",
         "present": "divide",
         "continuous_present": "dividing",
-        "translation": "dividir",
         "type": "regular",
         "verb": "divide"
     },
@@ -1855,7 +1701,6 @@
         "simple_past": "did",
         "present": "do",
         "continuous_present": "doing",
-        "translation": "hacer",
         "type": "irregular",
         "verb": "do"
     },
@@ -1867,7 +1712,6 @@
         "simple_past": "dragged",
         "present": "drag",
         "continuous_present": "dragging",
-        "translation": "arrastrar",
         "type": "regular",
         "verb": "drag"
     },
@@ -1879,7 +1723,6 @@
         "simple_past": "drained",
         "present": "drain",
         "continuous_present": "draining",
-        "translation": "drenar",
         "type": "regular",
         "verb": "drain"
     },
@@ -1891,7 +1734,6 @@
         "simple_past": "drew",
         "present": "draw",
         "continuous_present": "drawing",
-        "translation": "dibujar",
         "type": "irregular",
         "verb": "draw"
     },
@@ -1903,7 +1745,6 @@
         "simple_past": "dreamed",
         "present": "dream",
         "continuous_present": "dreaming",
-        "translation": "soñar",
         "type": "irregular",
         "verb": "dream"
     },
@@ -1915,7 +1756,6 @@
         "simple_past": "dressed",
         "present": "dress",
         "continuous_present": "dressing",
-        "translation": "vestir",
         "type": "regular",
         "verb": "dress"
     },
@@ -1927,7 +1767,6 @@
         "simple_past": "drank",
         "present": "drink",
         "continuous_present": "drinking",
-        "translation": "beber",
         "type": "irregular",
         "verb": "drink"
     },
@@ -1939,7 +1778,6 @@
         "simple_past": "drove",
         "present": "drive",
         "continuous_present": "driving",
-        "translation": "conducir",
         "type": "irregular",
         "verb": "drive"
     },
@@ -1951,7 +1789,6 @@
         "simple_past": "dropped",
         "present": "drop",
         "continuous_present": "dropping",
-        "translation": "soltar",
         "type": "regular",
         "verb": "drop"
     },
@@ -1963,7 +1800,6 @@
         "simple_past": "drowned",
         "present": "drown",
         "continuous_present": "drowning",
-        "translation": "ahogar",
         "type": "regular",
         "verb": "drown"
     },
@@ -1975,7 +1811,6 @@
         "simple_past": "dried",
         "present": "dry",
         "continuous_present": "drying",
-        "translation": "Secar",
         "type": "regular",
         "verb": "dry"
     },
@@ -1987,7 +1822,6 @@
         "simple_past": "earned",
         "present": "earn",
         "continuous_present": "earning",
-        "translation": "ganar",
         "type": "regular",
         "verb": "earn"
     },
@@ -1999,7 +1833,6 @@
         "simple_past": "eat",
         "present": "eat",
         "continuous_present": "eating",
-        "translation": "comer",
         "type": "irregular",
         "verb": "eat"
     },
@@ -2011,7 +1844,6 @@
         "simple_past": "educated",
         "present": "educate",
         "continuous_present": "educating",
-        "translation": "educar",
         "type": "regular",
         "verb": "educate"
     },
@@ -2023,7 +1855,6 @@
         "simple_past": "embarrassed",
         "present": "embarrass",
         "continuous_present": "embarrassing",
-        "translation": "avergonzar",
         "type": "regular",
         "verb": "embarrass"
     },
@@ -2035,7 +1866,6 @@
         "simple_past": "employed",
         "present": "employ",
         "continuous_present": "employing",
-        "translation": "emplear",
         "type": "regular",
         "verb": "employ"
     },
@@ -2047,7 +1877,6 @@
         "simple_past": "encouraged",
         "present": "encourage",
         "continuous_present": "encouraging",
-        "translation": "animar",
         "type": "regular",
         "verb": "encourage"
     },
@@ -2059,7 +1888,6 @@
         "simple_past": "enjoyed",
         "present": "enjoy",
         "continuous_present": "enjoying",
-        "translation": "disfrutar",
         "type": "regular",
         "verb": "enjoy"
     },
@@ -2071,7 +1899,6 @@
         "simple_past": "entered",
         "present": "enter",
         "continuous_present": "entering",
-        "translation": "entrar",
         "type": "regular",
         "verb": "enter"
     },
@@ -2083,7 +1910,6 @@
         "simple_past": "entertained",
         "present": "entertain",
         "continuous_present": "entertaining",
-        "translation": "entretener",
         "type": "regular",
         "verb": "entertain"
     },
@@ -2095,7 +1921,6 @@
         "simple_past": "escaped",
         "present": "escape",
         "continuous_present": "escaping",
-        "translation": "escapar",
         "type": "regular",
         "verb": "escape"
     },
@@ -2107,7 +1932,6 @@
         "simple_past": "examined",
         "present": "examine",
         "continuous_present": "examining",
-        "translation": "examinar",
         "type": "regular",
         "verb": "examine"
     },
@@ -2119,7 +1943,6 @@
         "simple_past": "excited",
         "present": "excite",
         "continuous_present": "exciting",
-        "translation": "excitar",
         "type": "regular",
         "verb": "excite"
     },
@@ -2131,7 +1954,6 @@
         "simple_past": "excused",
         "present": "excuse",
         "continuous_present": "excusing",
-        "translation": "excusarse",
         "type": "regular",
         "verb": "excuse"
     },
@@ -2143,7 +1965,6 @@
         "simple_past": "exercised",
         "present": "exercise",
         "continuous_present": "exercising",
-        "translation": "ejercitar",
         "type": "regular",
         "verb": "exercise"
     },
@@ -2155,7 +1976,6 @@
         "simple_past": "existed",
         "present": "exist",
         "continuous_present": "existing",
-        "translation": "existir",
         "type": "regular",
         "verb": "exist"
     },
@@ -2167,7 +1987,6 @@
         "simple_past": "expanded",
         "present": "expand",
         "continuous_present": "expanding",
-        "translation": "expandir",
         "type": "regular",
         "verb": "expand"
     },
@@ -2179,7 +1998,6 @@
         "simple_past": "expected",
         "present": "expect",
         "continuous_present": "expecting",
-        "translation": "esperar",
         "type": "regular",
         "verb": "expect"
     },
@@ -2191,7 +2009,6 @@
         "simple_past": "exploded",
         "present": "explode",
         "continuous_present": "exploding",
-        "translation": "explotar",
         "type": "regular",
         "verb": "explode"
     },
@@ -2203,7 +2020,6 @@
         "simple_past": "extended",
         "present": "extend",
         "continuous_present": "extending",
-        "translation": "ampliar",
         "type": "regular",
         "verb": "extend"
     },
@@ -2215,7 +2031,6 @@
         "simple_past": "faced",
         "present": "face",
         "continuous_present": "facing",
-        "translation": "enfrentar",
         "type": "regular",
         "verb": "face"
     },
@@ -2227,7 +2042,6 @@
         "simple_past": "faded",
         "present": "fade",
         "continuous_present": "fading",
-        "translation": "desvanecerse",
         "type": "regular",
         "verb": "fade"
     },
@@ -2239,7 +2053,6 @@
         "simple_past": "failed",
         "present": "fail",
         "continuous_present": "failing",
-        "translation": "fallar",
         "type": "regular",
         "verb": "fail"
     },
@@ -2251,7 +2064,6 @@
         "simple_past": "fell",
         "present": "fall",
         "continuous_present": "falling",
-        "translation": "caer",
         "type": "irregular",
         "verb": "fall"
     },
@@ -2263,7 +2075,6 @@
         "simple_past": "fastened",
         "present": "fasten",
         "continuous_present": "fastening",
-        "translation": "sujetar",
         "type": "regular",
         "verb": "fasten"
     },
@@ -2275,7 +2086,6 @@
         "simple_past": "feared",
         "present": "fear",
         "continuous_present": "fearing",
-        "translation": "temer",
         "type": "regular",
         "verb": "fear"
     },
@@ -2287,7 +2097,6 @@
         "simple_past": "felt",
         "present": "feel",
         "continuous_present": "feeling",
-        "translation": "sentir",
         "type": "irregular",
         "verb": "feel"
     },
@@ -2299,7 +2108,6 @@
         "simple_past": "fenced",
         "present": "fence",
         "continuous_present": "fencing",
-        "translation": "cercar",
         "type": "regular",
         "verb": "fence"
     },
@@ -2311,7 +2119,6 @@
         "simple_past": "fetched",
         "present": "fetch",
         "continuous_present": "fetching",
-        "translation": "ir a buscar",
         "type": "regular",
         "verb": "fetch"
     },
@@ -2323,7 +2130,6 @@
         "simple_past": "fought",
         "present": "fight",
         "continuous_present": "fighting",
-        "translation": "luchar",
         "type": "irregular",
         "verb": "fight"
     },
@@ -2335,7 +2141,6 @@
         "simple_past": "filed",
         "present": "file",
         "continuous_present": "filing",
-        "translation": "archivar",
         "type": "regular",
         "verb": "file"
     },
@@ -2347,7 +2152,6 @@
         "simple_past": "filled",
         "present": "fill",
         "continuous_present": "filling",
-        "translation": "llenar",
         "type": "regular",
         "verb": "fill"
     },
@@ -2359,7 +2163,6 @@
         "simple_past": "filmed",
         "present": "film",
         "continuous_present": "filming",
-        "translation": "filmar",
         "type": "regular",
         "verb": "film"
     },
@@ -2371,7 +2174,6 @@
         "simple_past": "found",
         "present": "find",
         "continuous_present": "finding",
-        "translation": "encontrar",
         "type": "irregular",
         "verb": "find"
     },
@@ -2383,7 +2185,6 @@
         "simple_past": "fitted",
         "present": "fit",
         "continuous_present": "fitting",
-        "translation": "caber",
         "type": "regular",
         "verb": "fit"
     },
@@ -2395,7 +2196,6 @@
         "simple_past": "fixed",
         "present": "fix",
         "continuous_present": "fixing",
-        "translation": "reparar",
         "type": "regular",
         "verb": "fix"
     },
@@ -2407,7 +2207,6 @@
         "simple_past": "floated",
         "present": "float",
         "continuous_present": "floating",
-        "translation": "flotar",
         "type": "regular",
         "verb": "float"
     },
@@ -2419,7 +2218,6 @@
         "simple_past": "flooded",
         "present": "flood",
         "continuous_present": "flooding",
-        "translation": "inundar",
         "type": "regular",
         "verb": "flood"
     },
@@ -2431,7 +2229,6 @@
         "simple_past": "flowed",
         "present": "flow",
         "continuous_present": "flowing",
-        "translation": "fluir",
         "type": "regular",
         "verb": "flow"
     },
@@ -2443,7 +2240,6 @@
         "simple_past": "flowered",
         "present": "flower",
         "continuous_present": "flowering",
-        "translation": "florecer",
         "type": "regular",
         "verb": "flower"
     },
@@ -2455,7 +2251,6 @@
         "simple_past": "flew",
         "present": "fly",
         "continuous_present": "flying",
-        "translation": "volar",
         "type": "irregular",
         "verb": "fly"
     },
@@ -2467,7 +2262,6 @@
         "simple_past": "folded",
         "present": "fold",
         "continuous_present": "folding",
-        "translation": "doblar",
         "type": "regular",
         "verb": "fold"
     },
@@ -2479,7 +2273,6 @@
         "simple_past": "followed",
         "present": "follow",
         "continuous_present": "following",
-        "translation": "seguir",
         "type": "regular",
         "verb": "follow"
     },
@@ -2491,7 +2284,6 @@
         "simple_past": "fooled",
         "present": "fool",
         "continuous_present": "fooling",
-        "translation": "engañar",
         "type": "regular",
         "verb": "fool"
     },
@@ -2503,7 +2295,6 @@
         "simple_past": "forgot",
         "present": "forget",
         "continuous_present": "forgetting",
-        "translation": "olvidar",
         "type": "irregular",
         "verb": "forget"
     },
@@ -2515,7 +2306,6 @@
         "simple_past": "forgave",
         "present": "forgive",
         "continuous_present": "forgiving",
-        "translation": "perdonar",
         "type": "irregular",
         "verb": "forgive"
     },
@@ -2527,7 +2317,6 @@
         "simple_past": "formed",
         "present": "form",
         "continuous_present": "forming",
-        "translation": "formar",
         "type": "regular",
         "verb": "form"
     },
@@ -2539,7 +2328,6 @@
         "simple_past": "framed",
         "present": "frame",
         "continuous_present": "framing",
-        "translation": "enmarcar",
         "type": "regular",
         "verb": "frame"
     },
@@ -2551,7 +2339,6 @@
         "simple_past": "froze",
         "present": "freeze",
         "continuous_present": "freezing",
-        "translation": "congelar",
         "type": "irregular",
         "verb": "freeze"
     },
@@ -2563,7 +2350,6 @@
         "simple_past": "frightened",
         "present": "frighten",
         "continuous_present": "frightening",
-        "translation": "asustar",
         "type": "regular",
         "verb": "frighten"
     },
@@ -2575,7 +2361,6 @@
         "simple_past": "fried",
         "present": "fry",
         "continuous_present": "frying",
-        "translation": "freir",
         "type": "regular",
         "verb": "fry"
     },
@@ -2587,7 +2372,6 @@
         "simple_past": "gathered",
         "present": "gather",
         "continuous_present": "gathering",
-        "translation": "reunir",
         "type": "regular",
         "verb": "gather"
     },
@@ -2599,7 +2383,6 @@
         "simple_past": "got",
         "present": "get",
         "continuous_present": "getting",
-        "translation": "obtener",
         "type": "irregular",
         "verb": "get"
     },
@@ -2611,7 +2394,6 @@
         "simple_past": "gave",
         "present": "give",
         "continuous_present": "giving",
-        "translation": "dar",
         "type": "irregular",
         "verb": "give"
     },
@@ -2623,7 +2405,6 @@
         "simple_past": "gloed",
         "present": "gloe",
         "continuous_present": "gloing",
-        "translation": "brillar",
         "type": "regular",
         "verb": "glow"
     },
@@ -2635,7 +2416,6 @@
         "simple_past": "went",
         "present": "go",
         "continuous_present": "going",
-        "translation": "ir",
         "type": "irregular",
         "verb": "go"
     },
@@ -2647,7 +2427,6 @@
         "simple_past": "grabbed",
         "present": "grab",
         "continuous_present": "grabbing",
-        "translation": "agarrar",
         "type": "regular",
         "verb": "grab"
     },
@@ -2659,7 +2438,6 @@
         "simple_past": "grated",
         "present": "grate",
         "continuous_present": "grating",
-        "translation": "rallar",
         "type": "regular",
         "verb": "grate"
     },
@@ -2671,7 +2449,6 @@
         "simple_past": "greased",
         "present": "grease",
         "continuous_present": "greasing",
-        "translation": "engrasar",
         "type": "regular",
         "verb": "grease"
     },
@@ -2683,7 +2460,6 @@
         "simple_past": "greeted",
         "present": "greet",
         "continuous_present": "greeting",
-        "translation": "saludar",
         "type": "regular",
         "verb": "greet"
     },
@@ -2695,7 +2471,6 @@
         "simple_past": "gripped",
         "present": "grip",
         "continuous_present": "gripping",
-        "translation": "apretón",
         "type": "regular",
         "verb": "grip"
     },
@@ -2707,7 +2482,6 @@
         "simple_past": "groaned",
         "present": "groan",
         "continuous_present": "groaning",
-        "translation": "gemir",
         "type": "regular",
         "verb": "groan"
     },
@@ -2719,7 +2493,6 @@
         "simple_past": "grew",
         "present": "grow",
         "continuous_present": "growing",
-        "translation": "crecer",
         "type": "irregular",
         "verb": "grow"
     },
@@ -2731,7 +2504,6 @@
         "simple_past": "guaranteed",
         "present": "guarantee",
         "continuous_present": "guaranteeing",
-        "translation": "garantizar",
         "type": "regular",
         "verb": "guarantee"
     },
@@ -2743,7 +2515,6 @@
         "simple_past": "guarded",
         "present": "guard",
         "continuous_present": "guarding",
-        "translation": "proteger",
         "type": "regular",
         "verb": "guard"
     },
@@ -2755,7 +2526,6 @@
         "simple_past": "guessed",
         "present": "guess",
         "continuous_present": "guessing",
-        "translation": "adivinar",
         "type": "regular",
         "verb": "guess"
     },
@@ -2767,7 +2537,6 @@
         "simple_past": "guided",
         "present": "guide",
         "continuous_present": "guiding",
-        "translation": "guiar",
         "type": "regular",
         "verb": "guide"
     },
@@ -2779,7 +2548,6 @@
         "simple_past": "hammered",
         "present": "hammer",
         "continuous_present": "hammering",
-        "translation": "martillar",
         "type": "regular",
         "verb": "hammer"
     },
@@ -2791,7 +2559,6 @@
         "simple_past": "handled",
         "present": "handle",
         "continuous_present": "handling",
-        "translation": "encargarse de",
         "type": "regular",
         "verb": "handle"
     },
@@ -2803,7 +2570,6 @@
         "simple_past": "hung/hanged",
         "present": "hang",
         "continuous_present": "hanging",
-        "translation": "colgar",
         "type": "irregular",
         "verb": "hang"
     },
@@ -2815,7 +2581,6 @@
         "simple_past": "happened",
         "present": "happen",
         "continuous_present": "happening",
-        "translation": "suceder",
         "type": "regular",
         "verb": "happen"
     },
@@ -2827,7 +2592,6 @@
         "simple_past": "harassed",
         "present": "harass",
         "continuous_present": "harassing",
-        "translation": "acosar",
         "type": "regular",
         "verb": "harass"
     },
@@ -2839,7 +2603,6 @@
         "simple_past": "harmed",
         "present": "harm",
         "continuous_present": "harming",
-        "translation": "herir",
         "type": "regular",
         "verb": "harm"
     },
@@ -2851,7 +2614,6 @@
         "simple_past": "hated",
         "present": "hate",
         "continuous_present": "hating",
-        "translation": "odiar",
         "type": "regular",
         "verb": "hate"
     },
@@ -2863,7 +2625,6 @@
         "simple_past": "had",
         "present": "have",
         "continuous_present": "having",
-        "translation": "tener",
         "type": "irregular",
         "verb": "have"
     },
@@ -2875,7 +2636,6 @@
         "simple_past": "healed",
         "present": "heal",
         "continuous_present": "healing",
-        "translation": "sanar",
         "type": "regular",
         "verb": "heal"
     },
@@ -2887,7 +2647,6 @@
         "simple_past": "heaped",
         "present": "heap",
         "continuous_present": "heaping",
-        "translation": "montón",
         "type": "regular",
         "verb": "heap"
     },
@@ -2899,7 +2658,6 @@
         "simple_past": "heard",
         "present": "hear",
         "continuous_present": "hearing",
-        "translation": "escuchar",
         "type": "irregular",
         "verb": "hear"
     },
@@ -2911,7 +2669,6 @@
         "simple_past": "heated",
         "present": "heat",
         "continuous_present": "heating",
-        "translation": "calentar",
         "type": "regular",
         "verb": "heat"
     },
@@ -2923,7 +2680,6 @@
         "simple_past": "helped",
         "present": "help",
         "continuous_present": "helping",
-        "translation": "ayudar",
         "type": "regular",
         "verb": "help"
     },
@@ -2935,7 +2691,6 @@
         "simple_past": "hid",
         "present": "hide",
         "continuous_present": "hiding",
-        "translation": "esconder",
         "type": "irregular",
         "verb": "hide"
     },
@@ -2947,7 +2702,6 @@
         "simple_past": "hit",
         "present": "hit",
         "continuous_present": "hitting",
-        "translation": "golpear",
         "type": "irregular",
         "verb": "hit"
     },
@@ -2959,7 +2713,6 @@
         "simple_past": "held",
         "present": "hold",
         "continuous_present": "holding",
-        "translation": "sostener",
         "type": "irregular",
         "verb": "hold"
     },
@@ -2971,7 +2724,6 @@
         "simple_past": "hooked",
         "present": "hook",
         "continuous_present": "hooking",
-        "translation": "enganchar",
         "type": "regular",
         "verb": "hook"
     },
@@ -2983,7 +2735,6 @@
         "simple_past": "hopped",
         "present": "hop",
         "continuous_present": "hopping",
-        "translation": "saltar",
         "type": "regular",
         "verb": "hop"
     },
@@ -2995,7 +2746,6 @@
         "simple_past": "hovered",
         "present": "hover",
         "continuous_present": "hovering",
-        "translation": "flotar",
         "type": "regular",
         "verb": "hover"
     },
@@ -3007,7 +2757,6 @@
         "simple_past": "hummed",
         "present": "hum",
         "continuous_present": "humming",
-        "translation": "tararear",
         "type": "regular",
         "verb": "hum"
     },
@@ -3019,7 +2768,6 @@
         "simple_past": "hunted",
         "present": "hunt",
         "continuous_present": "hunting",
-        "translation": "cazar",
         "type": "regular",
         "verb": "hunt"
     },
@@ -3031,7 +2779,6 @@
         "simple_past": "hurried",
         "present": "hurry",
         "continuous_present": "hurrying",
-        "translation": "darse prisa",
         "type": "regular",
         "verb": "hurry"
     },
@@ -3043,7 +2790,6 @@
         "simple_past": "kept",
         "present": "keep",
         "continuous_present": "keeping",
-        "translation": "herir",
         "type": "irregular",
         "verb": "hurt"
     },
@@ -3055,7 +2801,6 @@
         "simple_past": "identified",
         "present": "identify",
         "continuous_present": "identifying",
-        "translation": "identificar",
         "type": "regular",
         "verb": "identify"
     },
@@ -3067,7 +2812,6 @@
         "simple_past": "ignored",
         "present": "ignore",
         "continuous_present": "ignoring",
-        "translation": "ignorar",
         "type": "regular",
         "verb": "ignore"
     },
@@ -3079,7 +2823,6 @@
         "simple_past": "imagined",
         "present": "imagine",
         "continuous_present": "imagining",
-        "translation": "imaginar",
         "type": "regular",
         "verb": "imagine"
     },
@@ -3091,7 +2834,6 @@
         "simple_past": "impressed",
         "present": "impress",
         "continuous_present": "impressing",
-        "translation": "impresionar",
         "type": "regular",
         "verb": "impress"
     },
@@ -3103,7 +2845,6 @@
         "simple_past": "improved",
         "present": "improve",
         "continuous_present": "improving",
-        "translation": "mejorar",
         "type": "regular",
         "verb": "improve"
     },
@@ -3115,7 +2856,6 @@
         "simple_past": "included",
         "present": "include",
         "continuous_present": "including",
-        "translation": "incluir",
         "type": "regular",
         "verb": "include"
     },
@@ -3127,7 +2867,6 @@
         "simple_past": "increased",
         "present": "increase",
         "continuous_present": "increasing",
-        "translation": "incrementar",
         "type": "regular",
         "verb": "increase"
     },
@@ -3139,7 +2878,6 @@
         "simple_past": "influenced",
         "present": "influence",
         "continuous_present": "influencing",
-        "translation": "influenciar",
         "type": "regular",
         "verb": "influence"
     },
@@ -3151,7 +2889,6 @@
         "simple_past": "informed",
         "present": "inform",
         "continuous_present": "informing",
-        "translation": "informar",
         "type": "regular",
         "verb": "inform"
     },
@@ -3163,7 +2900,6 @@
         "simple_past": "injected",
         "present": "inject",
         "continuous_present": "injecting",
-        "translation": "inyectar",
         "type": "regular",
         "verb": "inject"
     },
@@ -3175,7 +2911,6 @@
         "simple_past": "injured",
         "present": "injure",
         "continuous_present": "injuring",
-        "translation": "lesionar",
         "type": "regular",
         "verb": "injure"
     },
@@ -3187,7 +2922,6 @@
         "simple_past": "instructed",
         "present": "instruct",
         "continuous_present": "instructing",
-        "translation": "instruir",
         "type": "regular",
         "verb": "instruct"
     },
@@ -3199,7 +2933,6 @@
         "simple_past": "intended",
         "present": "intend",
         "continuous_present": "intending",
-        "translation": "intentar",
         "type": "regular",
         "verb": "intend"
     },
@@ -3211,7 +2944,6 @@
         "simple_past": "interesed",
         "present": "interese",
         "continuous_present": "interesing",
-        "translation": "interesar",
         "type": "regular",
         "verb": "interest"
     },
@@ -3223,7 +2955,6 @@
         "simple_past": "interfered",
         "present": "interfere",
         "continuous_present": "interfering",
-        "translation": "interferir",
         "type": "regular",
         "verb": "interfere"
     },
@@ -3235,7 +2966,6 @@
         "simple_past": "interrupted",
         "present": "interrupt",
         "continuous_present": "interrupting",
-        "translation": "interrumpir",
         "type": "regular",
         "verb": "interrupt"
     },
@@ -3247,7 +2977,6 @@
         "simple_past": "introduced",
         "present": "introduce",
         "continuous_present": "introducing",
-        "translation": "introducir",
         "type": "regular",
         "verb": "introduce"
     },
@@ -3259,7 +2988,6 @@
         "simple_past": "invented",
         "present": "invent",
         "continuous_present": "inventing",
-        "translation": "inventar",
         "type": "regular",
         "verb": "invent"
     },
@@ -3271,7 +2999,6 @@
         "simple_past": "invited",
         "present": "invite",
         "continuous_present": "inviting",
-        "translation": "invitación",
         "type": "regular",
         "verb": "invite"
     },
@@ -3283,7 +3010,6 @@
         "simple_past": "irritated",
         "present": "irritate",
         "continuous_present": "irritating",
-        "translation": "irritar",
         "type": "regular",
         "verb": "irritate"
     },
@@ -3295,7 +3021,6 @@
         "simple_past": "itched",
         "present": "itch",
         "continuous_present": "itching",
-        "translation": "picar",
         "type": "regular",
         "verb": "itch"
     },
@@ -3307,7 +3032,6 @@
         "simple_past": "jammed",
         "present": "jam",
         "continuous_present": "jamming",
-        "translation": "atorarse",
         "type": "regular",
         "verb": "jam"
     },
@@ -3319,7 +3043,6 @@
         "simple_past": "joined",
         "present": "join",
         "continuous_present": "joining",
-        "translation": "unirse",
         "type": "regular",
         "verb": "join"
     },
@@ -3331,7 +3054,6 @@
         "simple_past": "joked",
         "present": "joke",
         "continuous_present": "joking",
-        "translation": "bromear",
         "type": "regular",
         "verb": "joke"
     },
@@ -3343,7 +3065,6 @@
         "simple_past": "judged",
         "present": "judge",
         "continuous_present": "judging",
-        "translation": "juzgar",
         "type": "regular",
         "verb": "judge"
     },
@@ -3355,7 +3076,6 @@
         "simple_past": "juggled",
         "present": "juggle",
         "continuous_present": "juggling",
-        "translation": "hacer juegos malabares",
         "type": "regular",
         "verb": "juggle"
     },
@@ -3367,7 +3087,6 @@
         "simple_past": "jumped",
         "present": "jump",
         "continuous_present": "jumping",
-        "translation": "saltar",
         "type": "regular",
         "verb": "jump"
     },
@@ -3379,7 +3098,6 @@
         "simple_past": "kept",
         "present": "keep",
         "continuous_present": "keeping",
-        "translation": "mantener",
         "type": "irregular",
         "verb": "keep"
     },
@@ -3391,7 +3109,6 @@
         "simple_past": "kicked",
         "present": "kick",
         "continuous_present": "kicking",
-        "translation": "patear",
         "type": "regular",
         "verb": "kick"
     },
@@ -3403,7 +3120,6 @@
         "simple_past": "killed",
         "present": "kill",
         "continuous_present": "killing",
-        "translation": "matar",
         "type": "regular",
         "verb": "kill"
     },
@@ -3415,7 +3131,6 @@
         "simple_past": "knelt",
         "present": "kneel",
         "continuous_present": "kneeling",
-        "translation": "arrodillarse",
         "type": "regular",
         "verb": "kneel"
     },
@@ -3427,7 +3142,6 @@
         "simple_past": "knitted",
         "present": "knit",
         "continuous_present": "knitting",
-        "translation": "tejer",
         "type": "regular",
         "verb": "knit"
     },
@@ -3439,7 +3153,6 @@
         "simple_past": "knocked",
         "present": "knock",
         "continuous_present": "knocking",
-        "translation": "golpear",
         "type": "regular",
         "verb": "knock"
     },
@@ -3451,7 +3164,6 @@
         "simple_past": "knew",
         "present": "know",
         "continuous_present": "knowing",
-        "translation": "saber",
         "type": "irregular",
         "verb": "know"
     },
@@ -3463,7 +3175,6 @@
         "simple_past": "landed",
         "present": "land",
         "continuous_present": "landing",
-        "translation": "aterrizar",
         "type": "regular",
         "verb": "land"
     },
@@ -3475,7 +3186,6 @@
         "simple_past": "lasted",
         "present": "last",
         "continuous_present": "lasting",
-        "translation": "durar",
         "type": "regular",
         "verb": "last"
     },
@@ -3487,7 +3197,6 @@
         "simple_past": "launched",
         "present": "launch",
         "continuous_present": "launching",
-        "translation": "almorzar",
         "type": "regular",
         "verb": "launch"
     },
@@ -3499,7 +3208,6 @@
         "simple_past": "led",
         "present": "lead",
         "continuous_present": "leading",
-        "translation": "dirigir",
         "type": "irregular",
         "verb": "lead"
     },
@@ -3511,7 +3219,6 @@
         "simple_past": "learned",
         "present": "learn",
         "continuous_present": "learning",
-        "translation": "aprender",
         "type": "irregular",
         "verb": "learn"
     },
@@ -3523,7 +3230,6 @@
         "simple_past": "left",
         "present": "leave",
         "continuous_present": "leaving",
-        "translation": "salir",
         "type": "irregular",
         "verb": "leave"
     },
@@ -3535,7 +3241,6 @@
         "simple_past": "lent",
         "present": "lend",
         "continuous_present": "lending",
-        "translation": "prestar",
         "type": "irregular",
         "verb": "lend"
     },
@@ -3547,7 +3252,6 @@
         "simple_past": "let",
         "present": "let",
         "continuous_present": "letting",
-        "translation": "dejar",
         "type": "irregular",
         "verb": "let"
     },
@@ -3559,7 +3263,6 @@
         "simple_past": "licked",
         "present": "lick",
         "continuous_present": "licking",
-        "translation": "lamer",
         "type": "regular",
         "verb": "lick"
     },
@@ -3571,7 +3274,6 @@
         "simple_past": "lay",
         "present": "lie",
         "continuous_present": "lying",
-        "translation": "mentir",
         "type": "irregular",
         "verb": "lie"
     },
@@ -3583,7 +3285,6 @@
         "simple_past": "lightened",
         "present": "lighten",
         "continuous_present": "lightening",
-        "translation": "aligerar",
         "type": "regular",
         "verb": "lighten"
     },
@@ -3595,7 +3296,6 @@
         "simple_past": "liked",
         "present": "like",
         "continuous_present": "liking",
-        "translation": "gustar",
         "type": "regular",
         "verb": "like"
     },
@@ -3607,7 +3307,6 @@
         "simple_past": "listed",
         "present": "list",
         "continuous_present": "listing",
-        "translation": "Listar",
         "type": "regular",
         "verb": "list"
     },
@@ -3619,7 +3318,6 @@
         "simple_past": "listened",
         "present": "listen",
         "continuous_present": "listening",
-        "translation": "escuchar",
         "type": "regular",
         "verb": "listen"
     },
@@ -3631,7 +3329,6 @@
         "simple_past": "lived",
         "present": "live",
         "continuous_present": "living",
-        "translation": "vivir",
         "type": "regular",
         "verb": "live"
     },
@@ -3643,7 +3340,6 @@
         "simple_past": "loaed",
         "present": "loae",
         "continuous_present": "loaing",
-        "translation": "cargar",
         "type": "regular",
         "verb": "load"
     },
@@ -3655,7 +3351,6 @@
         "simple_past": "loced",
         "present": "loce",
         "continuous_present": "locing",
-        "translation": "bloquear",
         "type": "regular",
         "verb": "lock"
     },
@@ -3667,7 +3362,6 @@
         "simple_past": "looked",
         "present": "look",
         "continuous_present": "looking",
-        "translation": "mirar",
         "type": "regular",
         "verb": "look"
     },
@@ -3679,7 +3373,6 @@
         "simple_past": "lost",
         "present": "lose",
         "continuous_present": "losing",
-        "translation": "perder",
         "type": "irregular",
         "verb": "lose"
     },
@@ -3691,7 +3384,6 @@
         "simple_past": "loved",
         "present": "love",
         "continuous_present": "loving",
-        "translation": "amar",
         "type": "regular",
         "verb": "love"
     },
@@ -3703,7 +3395,6 @@
         "simple_past": "made",
         "present": "make",
         "continuous_present": "making",
-        "translation": "hacer",
         "type": "irregular",
         "verb": "make"
     },
@@ -3715,7 +3406,6 @@
         "simple_past": "managed",
         "present": "manage",
         "continuous_present": "managing",
-        "translation": "gestionar",
         "type": "regular",
         "verb": "manage"
     },
@@ -3727,7 +3417,6 @@
         "simple_past": "marched",
         "present": "march",
         "continuous_present": "marching",
-        "translation": "Marchar",
         "type": "regular",
         "verb": "march"
     },
@@ -3739,7 +3428,6 @@
         "simple_past": "marked",
         "present": "mark",
         "continuous_present": "marking",
-        "translation": "marcar",
         "type": "regular",
         "verb": "mark"
     },
@@ -3751,7 +3439,6 @@
         "simple_past": "married",
         "present": "marry",
         "continuous_present": "marrying",
-        "translation": "casar",
         "type": "regular",
         "verb": "marry"
     },
@@ -3763,7 +3450,6 @@
         "simple_past": "mattered",
         "present": "matter",
         "continuous_present": "mattering",
-        "translation": "importar",
         "type": "regular",
         "verb": "matter"
     },
@@ -3775,7 +3461,6 @@
         "simple_past": "meant",
         "present": "mean",
         "continuous_present": "meaning",
-        "translation": "significar",
         "type": "irregular",
         "verb": "mean"
     },
@@ -3787,7 +3472,6 @@
         "simple_past": "medt",
         "present": "medght",
         "continuous_present": "medghting",
-        "translation": "entrometerse",
         "type": "regular",
         "verb": "meddle"
     },
@@ -3799,7 +3483,6 @@
         "simple_past": "met",
         "present": "meet",
         "continuous_present": "meeting",
-        "translation": "reunirse",
         "type": "irregular",
         "verb": "meet"
     },
@@ -3811,7 +3494,6 @@
         "simple_past": "melted",
         "present": "melt",
         "continuous_present": "melting",
-        "translation": "derretir",
         "type": "regular",
         "verb": "melt"
     },
@@ -3823,7 +3505,6 @@
         "simple_past": "memorised",
         "present": "memorise",
         "continuous_present": "memorising",
-        "translation": "memorizar",
         "type": "regular",
         "verb": "memorise"
     },
@@ -3835,7 +3516,6 @@
         "simple_past": "mended",
         "present": "mend",
         "continuous_present": "mending",
-        "translation": "arreglar",
         "type": "regular",
         "verb": "mend"
     },
@@ -3847,7 +3527,6 @@
         "simple_past": "mess ued",
         "present": "mess ue",
         "continuous_present": "mess uing",
-        "translation": "estropear",
         "type": "regular",
         "verb": "mess up"
     },
@@ -3859,7 +3538,6 @@
         "simple_past": "mixed",
         "present": "mix",
         "continuous_present": "mixing",
-        "translation": "mezclar",
         "type": "regular",
         "verb": "mix"
     },
@@ -3871,7 +3549,6 @@
         "simple_past": "moaned",
         "present": "moan",
         "continuous_present": "moaning",
-        "translation": "quejarse",
         "type": "regular",
         "verb": "moan"
     },
@@ -3883,7 +3560,6 @@
         "simple_past": "mourned",
         "present": "mourn",
         "continuous_present": "mourning",
-        "translation": "llorar",
         "type": "regular",
         "verb": "mourn"
     },
@@ -3895,7 +3571,6 @@
         "simple_past": "moved",
         "present": "move",
         "continuous_present": "moving",
-        "translation": "moverse",
         "type": "regular",
         "verb": "move"
     },
@@ -3907,7 +3582,6 @@
         "simple_past": "muddled",
         "present": "muddle",
         "continuous_present": "muddling",
-        "translation": "confusión",
         "type": "regular",
         "verb": "muddle"
     },
@@ -3919,7 +3593,6 @@
         "simple_past": "multiplied",
         "present": "multiply",
         "continuous_present": "multiplying",
-        "translation": "multiplicar",
         "type": "regular",
         "verb": "multiply"
     },
@@ -3931,7 +3604,6 @@
         "simple_past": "nailed",
         "present": "nail",
         "continuous_present": "nailing",
-        "translation": "clavar",
         "type": "regular",
         "verb": "nail"
     },
@@ -3943,7 +3615,6 @@
         "simple_past": "nt",
         "present": "nght",
         "continuous_present": "nghting",
-        "translation": "nombrar",
         "type": "regular",
         "verb": "name"
     },
@@ -3955,7 +3626,6 @@
         "simple_past": "needed",
         "present": "need",
         "continuous_present": "needing",
-        "translation": "necesitar",
         "type": "regular",
         "verb": "need"
     },
@@ -3967,7 +3637,6 @@
         "simple_past": "nodded",
         "present": "nod",
         "continuous_present": "nodding",
-        "translation": "cabecear",
         "type": "regular",
         "verb": "nod"
     },
@@ -3979,7 +3648,6 @@
         "simple_past": "noted",
         "present": "note",
         "continuous_present": "noting",
-        "translation": "notar",
         "type": "regular",
         "verb": "note"
     },
@@ -3991,7 +3659,6 @@
         "simple_past": "noticed",
         "present": "notice",
         "continuous_present": "noticing",
-        "translation": "notar",
         "type": "regular",
         "verb": "notice"
     },
@@ -4003,7 +3670,6 @@
         "simple_past": "obeyed",
         "present": "obey",
         "continuous_present": "obeying",
-        "translation": "obedecer",
         "type": "regular",
         "verb": "obey"
     },
@@ -4015,7 +3681,6 @@
         "simple_past": "observed",
         "present": "observe",
         "continuous_present": "observing",
-        "translation": "observar",
         "type": "regular",
         "verb": "observe"
     },
@@ -4027,7 +3692,6 @@
         "simple_past": "obtained",
         "present": "obtain",
         "continuous_present": "obtaining",
-        "translation": "obtener",
         "type": "regular",
         "verb": "obtain"
     },
@@ -4039,7 +3703,6 @@
         "simple_past": "occurred",
         "present": "occur",
         "continuous_present": "occurring",
-        "translation": "ocurrir",
         "type": "regular",
         "verb": "occur"
     },
@@ -4051,7 +3714,6 @@
         "simple_past": "offended",
         "present": "offend",
         "continuous_present": "offending",
-        "translation": "ofender",
         "type": "regular",
         "verb": "offend"
     },
@@ -4063,7 +3725,6 @@
         "simple_past": "offered",
         "present": "offer",
         "continuous_present": "offering",
-        "translation": "ofrecer",
         "type": "regular",
         "verb": "offer"
     },
@@ -4075,7 +3736,6 @@
         "simple_past": "opened",
         "present": "open",
         "continuous_present": "opening",
-        "translation": "abrir",
         "type": "regular",
         "verb": "open"
     },
@@ -4087,7 +3747,6 @@
         "simple_past": "ordered",
         "present": "order",
         "continuous_present": "ordering",
-        "translation": "ordenar",
         "type": "regular",
         "verb": "order"
     },
@@ -4099,7 +3758,6 @@
         "simple_past": "overflowed",
         "present": "overflow",
         "continuous_present": "overflowing",
-        "translation": "sobrepasar",
         "type": "regular",
         "verb": "overflow"
     },
@@ -4111,7 +3769,6 @@
         "simple_past": "lit",
         "present": "light",
         "continuous_present": "lighting",
-        "translation": "deber",
         "type": "regular",
         "verb": "owe"
     },
@@ -4123,7 +3780,6 @@
         "simple_past": "paddled",
         "present": "paddle",
         "continuous_present": "paddling",
-        "translation": "remar",
         "type": "regular",
         "verb": "paddle"
     },
@@ -4135,7 +3791,6 @@
         "simple_past": "painted",
         "present": "paint",
         "continuous_present": "painting",
-        "translation": "pintar",
         "type": "regular",
         "verb": "paint"
     },
@@ -4147,7 +3802,6 @@
         "simple_past": "parked",
         "present": "park",
         "continuous_present": "parking",
-        "translation": "aparcar",
         "type": "regular",
         "verb": "park"
     },
@@ -4159,7 +3813,6 @@
         "simple_past": "passed",
         "present": "pass",
         "continuous_present": "passing",
-        "translation": "pasar",
         "type": "regular",
         "verb": "pass"
     },
@@ -4171,7 +3824,6 @@
         "simple_past": "pasted",
         "present": "paste",
         "continuous_present": "pasting",
-        "translation": "pegar",
         "type": "regular",
         "verb": "paste"
     },
@@ -4183,7 +3835,6 @@
         "simple_past": "paused",
         "present": "pause",
         "continuous_present": "pausing",
-        "translation": "pausar",
         "type": "regular",
         "verb": "pause"
     },
@@ -4195,7 +3846,6 @@
         "simple_past": "paid",
         "present": "pay",
         "continuous_present": "paying",
-        "translation": "pagar",
         "type": "irregular",
         "verb": "pay"
     },
@@ -4207,7 +3857,6 @@
         "simple_past": "pecked",
         "present": "peck",
         "continuous_present": "pecking",
-        "translation": "picotear",
         "type": "regular",
         "verb": "peck"
     },
@@ -4219,7 +3868,6 @@
         "simple_past": "peeled",
         "present": "peel",
         "continuous_present": "peeling",
-        "translation": "pelar",
         "type": "regular",
         "verb": "peel"
     },
@@ -4231,7 +3879,6 @@
         "simple_past": "peeped",
         "present": "peep",
         "continuous_present": "peeping",
-        "translation": "mirar furtivamente",
         "type": "regular",
         "verb": "peep"
     },
@@ -4243,7 +3890,6 @@
         "simple_past": "performed",
         "present": "perform",
         "continuous_present": "performing",
-        "translation": "realizar",
         "type": "regular",
         "verb": "perform"
     },
@@ -4255,7 +3901,6 @@
         "simple_past": "phoned",
         "present": "phone",
         "continuous_present": "phoning",
-        "translation": "llamar",
         "type": "regular",
         "verb": "phone"
     },
@@ -4267,7 +3912,6 @@
         "simple_past": "picked",
         "present": "pick",
         "continuous_present": "picking",
-        "translation": "recoger",
         "type": "regular",
         "verb": "pick"
     },
@@ -4279,7 +3923,6 @@
         "simple_past": "pinched",
         "present": "pinch",
         "continuous_present": "pinching",
-        "translation": "pellizcar",
         "type": "regular",
         "verb": "pinch"
     },
@@ -4291,7 +3934,6 @@
         "simple_past": "placed",
         "present": "place",
         "continuous_present": "placing",
-        "translation": "poner",
         "type": "regular",
         "verb": "place"
     },
@@ -4303,7 +3945,6 @@
         "simple_past": "planned",
         "present": "plan",
         "continuous_present": "planning",
-        "translation": "planificar",
         "type": "regular",
         "verb": "plan"
     },
@@ -4315,7 +3956,6 @@
         "simple_past": "planted",
         "present": "plant",
         "continuous_present": "planting",
-        "translation": "plantar",
         "type": "regular",
         "verb": "plant"
     },
@@ -4327,7 +3967,6 @@
         "simple_past": "played",
         "present": "play",
         "continuous_present": "playing",
-        "translation": "jugar",
         "type": "regular",
         "verb": "play"
     },
@@ -4339,7 +3978,6 @@
         "simple_past": "poined",
         "present": "poine",
         "continuous_present": "poining",
-        "translation": "apuntar",
         "type": "regular",
         "verb": "point"
     },
@@ -4351,7 +3989,6 @@
         "simple_past": "poked",
         "present": "poke",
         "continuous_present": "poking",
-        "translation": "dar un toque",
         "type": "regular",
         "verb": "poke"
     },
@@ -4363,7 +4000,6 @@
         "simple_past": "polished",
         "present": "polish",
         "continuous_present": "polishing",
-        "translation": "pulir",
         "type": "regular",
         "verb": "polish"
     },
@@ -4375,7 +4011,6 @@
         "simple_past": "popped",
         "present": "pop",
         "continuous_present": "popping",
-        "translation": "popular",
         "type": "regular",
         "verb": "pop"
     },
@@ -4387,7 +4022,6 @@
         "simple_past": "possessed",
         "present": "possess",
         "continuous_present": "possessing",
-        "translation": "poseer",
         "type": "regular",
         "verb": "possess"
     },
@@ -4399,7 +4033,6 @@
         "simple_past": "posted",
         "present": "post",
         "continuous_present": "posting",
-        "translation": "enviar",
         "type": "regular",
         "verb": "post"
     },
@@ -4411,7 +4044,6 @@
         "simple_past": "poured",
         "present": "pour",
         "continuous_present": "pouring",
-        "translation": "verter",
         "type": "regular",
         "verb": "pour"
     },
@@ -4423,7 +4055,6 @@
         "simple_past": "practiced",
         "present": "practice",
         "continuous_present": "practicing",
-        "translation": "practicar",
         "type": "regular",
         "verb": "practice"
     },
@@ -4435,7 +4066,6 @@
         "simple_past": "prayed",
         "present": "pray",
         "continuous_present": "praying",
-        "translation": "orar",
         "type": "regular",
         "verb": "pray"
     },
@@ -4447,7 +4077,6 @@
         "simple_past": "preached",
         "present": "preach",
         "continuous_present": "preaching",
-        "translation": "predicar",
         "type": "regular",
         "verb": "preach"
     },
@@ -4459,7 +4088,6 @@
         "simple_past": "preceded",
         "present": "precede",
         "continuous_present": "preceding",
-        "translation": "preceder",
         "type": "regular",
         "verb": "precede"
     },
@@ -4471,7 +4099,6 @@
         "simple_past": "preferred",
         "present": "prefer",
         "continuous_present": "preferring",
-        "translation": "preferir",
         "type": "regular",
         "verb": "prefer"
     },
@@ -4483,7 +4110,6 @@
         "simple_past": "prepared",
         "present": "prepare",
         "continuous_present": "preparing",
-        "translation": "preparar",
         "type": "regular",
         "verb": "prepare"
     },
@@ -4495,7 +4121,6 @@
         "simple_past": "presented",
         "present": "present",
         "continuous_present": "presenting",
-        "translation": "presentar",
         "type": "regular",
         "verb": "present"
     },
@@ -4507,7 +4132,6 @@
         "simple_past": "preserved",
         "present": "preserve",
         "continuous_present": "preserving",
-        "translation": "preservar",
         "type": "regular",
         "verb": "preserve"
     },
@@ -4519,7 +4143,6 @@
         "simple_past": "pretended",
         "present": "pretend",
         "continuous_present": "pretending",
-        "translation": "pretender",
         "type": "regular",
         "verb": "pretend"
     },
@@ -4531,7 +4154,6 @@
         "simple_past": "prevened",
         "present": "prevene",
         "continuous_present": "prevening",
-        "translation": "evitar",
         "type": "regular",
         "verb": "prevent"
     },
@@ -4543,7 +4165,6 @@
         "simple_past": "pricked",
         "present": "prick",
         "continuous_present": "pricking",
-        "translation": "Picar",
         "type": "regular",
         "verb": "prick"
     },
@@ -4555,7 +4176,6 @@
         "simple_past": "printed",
         "present": "print",
         "continuous_present": "printing",
-        "translation": "impresión",
         "type": "regular",
         "verb": "print"
     },
@@ -4567,7 +4187,6 @@
         "simple_past": "programed",
         "present": "program",
         "continuous_present": "programing",
-        "translation": "programar",
         "type": "regular",
         "verb": "program"
     },
@@ -4579,7 +4198,6 @@
         "simple_past": "promised",
         "present": "promise",
         "continuous_present": "promising",
-        "translation": "prometer",
         "type": "regular",
         "verb": "promise"
     },
@@ -4591,7 +4209,6 @@
         "simple_past": "protected",
         "present": "protect",
         "continuous_present": "protecting",
-        "translation": "proteger",
         "type": "regular",
         "verb": "protect"
     },
@@ -4603,7 +4220,6 @@
         "simple_past": "provided",
         "present": "provide",
         "continuous_present": "providing",
-        "translation": "proporcionar",
         "type": "regular",
         "verb": "provide"
     },
@@ -4615,7 +4231,6 @@
         "simple_past": "pulled",
         "present": "pull",
         "continuous_present": "pulling",
-        "translation": "Halar",
         "type": "regular",
         "verb": "pull"
     },
@@ -4627,7 +4242,6 @@
         "simple_past": "pumped",
         "present": "pump",
         "continuous_present": "pumping",
-        "translation": "bombear",
         "type": "regular",
         "verb": "pump"
     },
@@ -4639,7 +4253,6 @@
         "simple_past": "punched",
         "present": "punch",
         "continuous_present": "punching",
-        "translation": "golpear",
         "type": "regular",
         "verb": "punch"
     },
@@ -4651,7 +4264,6 @@
         "simple_past": "punctured",
         "present": "puncture",
         "continuous_present": "puncturing",
-        "translation": "punción",
         "type": "regular",
         "verb": "puncture"
     },
@@ -4663,7 +4275,6 @@
         "simple_past": "punished",
         "present": "punish",
         "continuous_present": "punishing",
-        "translation": "castigar",
         "type": "regular",
         "verb": "punish"
     },
@@ -4675,7 +4286,6 @@
         "simple_past": "pushed",
         "present": "push",
         "continuous_present": "pushing",
-        "translation": "empujar",
         "type": "regular",
         "verb": "push"
     },
@@ -4687,7 +4297,6 @@
         "simple_past": "put",
         "present": "put",
         "continuous_present": "putting",
-        "translation": "poner",
         "type": "irregular",
         "verb": "put"
     },
@@ -4699,7 +4308,6 @@
         "simple_past": "questioned",
         "present": "question",
         "continuous_present": "questioning",
-        "translation": "preguntar",
         "type": "regular",
         "verb": "question"
     },
@@ -4711,7 +4319,6 @@
         "simple_past": "queued",
         "present": "queue",
         "continuous_present": "queuing",
-        "translation": "hacer cola",
         "type": "regular",
         "verb": "queue"
     },
@@ -4723,7 +4330,6 @@
         "simple_past": "radiated",
         "present": "radiate",
         "continuous_present": "radiating",
-        "translation": "irradiar",
         "type": "regular",
         "verb": "radiate"
     },
@@ -4735,7 +4341,6 @@
         "simple_past": "raied",
         "present": "raie",
         "continuous_present": "raiing",
-        "translation": "llover",
         "type": "regular",
         "verb": "rain"
     },
@@ -4747,7 +4352,6 @@
         "simple_past": "reached",
         "present": "reach",
         "continuous_present": "reaching",
-        "translation": "alcanzar",
         "type": "regular",
         "verb": "reach"
     },
@@ -4759,7 +4363,6 @@
         "simple_past": "read",
         "present": "read",
         "continuous_present": "reading",
-        "translation": "leer",
         "type": "irregular",
         "verb": "read"
     },
@@ -4771,7 +4374,6 @@
         "simple_past": "realised",
         "present": "realise",
         "continuous_present": "realising",
-        "translation": "darse cuenta de",
         "type": "regular",
         "verb": "realise"
     },
@@ -4783,7 +4385,6 @@
         "simple_past": "received",
         "present": "receive",
         "continuous_present": "receiving",
-        "translation": "recibir",
         "type": "regular",
         "verb": "receive"
     },
@@ -4795,7 +4396,6 @@
         "simple_past": "recognised",
         "present": "recognise",
         "continuous_present": "recognising",
-        "translation": "reconocer",
         "type": "regular",
         "verb": "recognise"
     },
@@ -4807,7 +4407,6 @@
         "simple_past": "recorded",
         "present": "record",
         "continuous_present": "recording",
-        "translation": "grabar",
         "type": "regular",
         "verb": "record"
     },
@@ -4819,7 +4418,6 @@
         "simple_past": "reduced",
         "present": "reduce",
         "continuous_present": "reducing",
-        "translation": "reducir",
         "type": "regular",
         "verb": "reduce"
     },
@@ -4831,7 +4429,6 @@
         "simple_past": "reflected",
         "present": "reflect",
         "continuous_present": "reflecting",
-        "translation": "reflejar",
         "type": "regular",
         "verb": "reflect"
     },
@@ -4843,7 +4440,6 @@
         "simple_past": "refused",
         "present": "refuse",
         "continuous_present": "refusing",
-        "translation": "negar",
         "type": "regular",
         "verb": "refuse"
     },
@@ -4855,7 +4451,6 @@
         "simple_past": "regretted",
         "present": "regret",
         "continuous_present": "regretting",
-        "translation": "lamentar",
         "type": "regular",
         "verb": "regret"
     },
@@ -4867,7 +4462,6 @@
         "simple_past": "rejected",
         "present": "reject",
         "continuous_present": "rejecting",
-        "translation": "rechazar",
         "type": "regular",
         "verb": "reject"
     },
@@ -4879,7 +4473,6 @@
         "simple_past": "rejot",
         "present": "rejoght",
         "continuous_present": "rejoghting",
-        "translation": "alegrarse",
         "type": "regular",
         "verb": "rejoice"
     },
@@ -4891,7 +4484,6 @@
         "simple_past": "relaxed",
         "present": "relax",
         "continuous_present": "relaxing",
-        "translation": "relajarse",
         "type": "regular",
         "verb": "relax"
     },
@@ -4903,7 +4495,6 @@
         "simple_past": "released",
         "present": "release",
         "continuous_present": "releasing",
-        "translation": "liberar",
         "type": "regular",
         "verb": "release"
     },
@@ -4915,7 +4506,6 @@
         "simple_past": "rught",
         "present": "rtch",
         "continuous_present": "rtching",
-        "translation": "confiar",
         "type": "regular",
         "verb": "rely"
     },
@@ -4927,7 +4517,6 @@
         "simple_past": "remained",
         "present": "remain",
         "continuous_present": "remaining",
-        "translation": "permanecer",
         "type": "regular",
         "verb": "remain"
     },
@@ -4939,7 +4528,6 @@
         "simple_past": "remembered",
         "present": "remember",
         "continuous_present": "remembering",
-        "translation": "recordar",
         "type": "regular",
         "verb": "remember"
     },
@@ -4951,7 +4539,6 @@
         "simple_past": "remined",
         "present": "remine",
         "continuous_present": "remining",
-        "translation": "recordar",
         "type": "regular",
         "verb": "remind"
     },
@@ -4963,7 +4550,6 @@
         "simple_past": "removed",
         "present": "remove",
         "continuous_present": "removing",
-        "translation": "eliminar",
         "type": "regular",
         "verb": "remove"
     },
@@ -4975,7 +4561,6 @@
         "simple_past": "repaired",
         "present": "repair",
         "continuous_present": "repairing",
-        "translation": "reparar",
         "type": "regular",
         "verb": "repair"
     },
@@ -4987,7 +4572,6 @@
         "simple_past": "repeated",
         "present": "repeat",
         "continuous_present": "repeating",
-        "translation": "repetir",
         "type": "regular",
         "verb": "repeat"
     },
@@ -4999,7 +4583,6 @@
         "simple_past": "replaced",
         "present": "replace",
         "continuous_present": "replacing",
-        "translation": "reemplazar",
         "type": "regular",
         "verb": "replace"
     },
@@ -5011,7 +4594,6 @@
         "simple_past": "replied",
         "present": "reply",
         "continuous_present": "replying",
-        "translation": "responder",
         "type": "regular",
         "verb": "reply"
     },
@@ -5023,7 +4605,6 @@
         "simple_past": "reproduced",
         "present": "reproduce",
         "continuous_present": "reproducing",
-        "translation": "reproducir",
         "type": "regular",
         "verb": "reproduce"
     },
@@ -5035,7 +4616,6 @@
         "simple_past": "requested",
         "present": "request",
         "continuous_present": "requesting",
-        "translation": "solicitar",
         "type": "regular",
         "verb": "request"
     },
@@ -5047,7 +4627,6 @@
         "simple_past": "retired",
         "present": "retire",
         "continuous_present": "retiring",
-        "translation": "retirarse",
         "type": "regular",
         "verb": "retire"
     },
@@ -5059,7 +4638,6 @@
         "simple_past": "returned",
         "present": "return",
         "continuous_present": "returning",
-        "translation": "regresar",
         "type": "regular",
         "verb": "return"
     },
@@ -5071,7 +4649,6 @@
         "simple_past": "ringed",
         "present": "ring",
         "continuous_present": "ringing",
-        "translation": "hacer sonar",
         "type": "irregular",
         "verb": "ring"
     },
@@ -5083,7 +4660,6 @@
         "simple_past": "rose",
         "present": "rise",
         "continuous_present": "rising",
-        "translation": "subir",
         "type": "irregular",
         "verb": "rise"
     },
@@ -5095,7 +4671,6 @@
         "simple_past": "risked",
         "present": "risk",
         "continuous_present": "risking",
-        "translation": "arriesgar",
         "type": "regular",
         "verb": "risk"
     },
@@ -5107,7 +4682,6 @@
         "simple_past": "robbed",
         "present": "rob",
         "continuous_present": "robbing",
-        "translation": "robar",
         "type": "regular",
         "verb": "rob"
     },
@@ -5119,7 +4693,6 @@
         "simple_past": "rolled",
         "present": "roll",
         "continuous_present": "rolling",
-        "translation": "rodar",
         "type": "regular",
         "verb": "roll"
     },
@@ -5131,7 +4704,6 @@
         "simple_past": "rotted",
         "present": "rot",
         "continuous_present": "rotting",
-        "translation": "putrefacción",
         "type": "regular",
         "verb": "rot"
     },
@@ -5143,7 +4715,6 @@
         "simple_past": "rubbed",
         "present": "rub",
         "continuous_present": "rubbing",
-        "translation": "frotar",
         "type": "regular",
         "verb": "rub"
     },
@@ -5155,7 +4726,6 @@
         "simple_past": "ruled",
         "present": "rule",
         "continuous_present": "ruling",
-        "translation": "mandar",
         "type": "regular",
         "verb": "rule"
     },
@@ -5167,7 +4737,6 @@
         "simple_past": "ran",
         "present": "run",
         "continuous_present": "running",
-        "translation": "correr",
         "type": "irregular",
         "verb": "run"
     },
@@ -5179,7 +4748,6 @@
         "simple_past": "rushed",
         "present": "rush",
         "continuous_present": "rushing",
-        "translation": "apurarse",
         "type": "regular",
         "verb": "rush"
     },
@@ -5191,7 +4759,6 @@
         "simple_past": "sacked",
         "present": "sack",
         "continuous_present": "sacking",
-        "translation": "saquear",
         "type": "regular",
         "verb": "sack"
     },
@@ -5203,7 +4770,6 @@
         "simple_past": "satisfied",
         "present": "satisfy",
         "continuous_present": "satisfying",
-        "translation": "satisfacer",
         "type": "regular",
         "verb": "satisfy"
     },
@@ -5215,7 +4781,6 @@
         "simple_past": "saved",
         "present": "save",
         "continuous_present": "saving",
-        "translation": "salvar",
         "type": "regular",
         "verb": "save"
     },
@@ -5227,7 +4792,6 @@
         "simple_past": "said",
         "present": "say",
         "continuous_present": "saying",
-        "translation": "decir",
         "type": "irregular",
         "verb": "say"
     },
@@ -5239,7 +4803,6 @@
         "simple_past": "scared",
         "present": "scare",
         "continuous_present": "scaring",
-        "translation": "asustar",
         "type": "regular",
         "verb": "scare"
     },
@@ -5251,7 +4814,6 @@
         "simple_past": "scattered",
         "present": "scatter",
         "continuous_present": "scattering",
-        "translation": "dispersar",
         "type": "regular",
         "verb": "scatter"
     },
@@ -5263,7 +4825,6 @@
         "simple_past": "scolded",
         "present": "scold",
         "continuous_present": "scolding",
-        "translation": "regañar",
         "type": "regular",
         "verb": "scold"
     },
@@ -5275,7 +4836,6 @@
         "simple_past": "scorched",
         "present": "scorch",
         "continuous_present": "scorching",
-        "translation": "quemar",
         "type": "regular",
         "verb": "scorch"
     },
@@ -5287,7 +4847,6 @@
         "simple_past": "scraped",
         "present": "scrape",
         "continuous_present": "scraping",
-        "translation": "raspar",
         "type": "regular",
         "verb": "scrape"
     },
@@ -5299,7 +4858,6 @@
         "simple_past": "screamed",
         "present": "scream",
         "continuous_present": "screaming",
-        "translation": "gritar",
         "type": "regular",
         "verb": "scream"
     },
@@ -5311,7 +4869,6 @@
         "simple_past": "screwed",
         "present": "screw",
         "continuous_present": "screwing",
-        "translation": "atornillar",
         "type": "regular",
         "verb": "screw"
     },
@@ -5323,7 +4880,6 @@
         "simple_past": "scrubbed",
         "present": "scrub",
         "continuous_present": "scrubbing",
-        "translation": "fregar",
         "type": "regular",
         "verb": "scrub"
     },
@@ -5335,7 +4891,6 @@
         "simple_past": "searched",
         "present": "search",
         "continuous_present": "searching",
-        "translation": "buscar",
         "type": "regular",
         "verb": "search"
     },
@@ -5347,7 +4902,6 @@
         "simple_past": "saw",
         "present": "see",
         "continuous_present": "seeing",
-        "translation": "ver",
         "type": "irregular",
         "verb": "see"
     },
@@ -5359,7 +4913,6 @@
         "simple_past": "sold",
         "present": "sell",
         "continuous_present": "selling",
-        "translation": "vender",
         "type": "irregular",
         "verb": "sell"
     },
@@ -5371,7 +4924,6 @@
         "simple_past": "sent",
         "present": "send",
         "continuous_present": "sending",
-        "translation": "enviar",
         "type": "irregular",
         "verb": "send"
     },
@@ -5383,7 +4935,6 @@
         "simple_past": "separated",
         "present": "separate",
         "continuous_present": "separating",
-        "translation": "separar",
         "type": "regular",
         "verb": "separate"
     },
@@ -5395,7 +4946,6 @@
         "simple_past": "served",
         "present": "serve",
         "continuous_present": "serving",
-        "translation": "servir",
         "type": "regular",
         "verb": "serve"
     },
@@ -5407,7 +4957,6 @@
         "simple_past": "settled",
         "present": "settle",
         "continuous_present": "settling",
-        "translation": "asentar",
         "type": "regular",
         "verb": "settle"
     },
@@ -5419,7 +4968,6 @@
         "simple_past": "shared",
         "present": "share",
         "continuous_present": "sharing",
-        "translation": "compartir",
         "type": "regular",
         "verb": "share"
     },
@@ -5431,7 +4979,6 @@
         "simple_past": "shaved",
         "present": "shave",
         "continuous_present": "shaving",
-        "translation": "afeitar",
         "type": "regular",
         "verb": "shave"
     },
@@ -5443,7 +4990,6 @@
         "simple_past": "sheltered",
         "present": "shelter",
         "continuous_present": "sheltering",
-        "translation": "resguardarse",
         "type": "regular",
         "verb": "shelter"
     },
@@ -5455,7 +5001,6 @@
         "simple_past": "shivered",
         "present": "shiver",
         "continuous_present": "shivering",
-        "translation": "temblar",
         "type": "regular",
         "verb": "shiver"
     },
@@ -5467,7 +5012,6 @@
         "simple_past": "shocked",
         "present": "shock",
         "continuous_present": "shocking",
-        "translation": "conmoción",
         "type": "regular",
         "verb": "shock"
     },
@@ -5479,7 +5023,6 @@
         "simple_past": "shopped",
         "present": "shop",
         "continuous_present": "shopping",
-        "translation": "comprar",
         "type": "regular",
         "verb": "shop"
     },
@@ -5491,7 +5034,6 @@
         "simple_past": "showed",
         "present": "show",
         "continuous_present": "showing",
-        "translation": "mostrar",
         "type": "irregular",
         "verb": "show"
     },
@@ -5503,7 +5045,6 @@
         "simple_past": "shrugged",
         "present": "shrug",
         "continuous_present": "shrugging",
-        "translation": "encogerse de hombros",
         "type": "regular",
         "verb": "shrug"
     },
@@ -5515,7 +5056,6 @@
         "simple_past": "shut",
         "present": "shut",
         "continuous_present": "shutting",
-        "translation": "cerrar",
         "type": "irregular",
         "verb": "shut"
     },
@@ -5527,7 +5067,6 @@
         "simple_past": "sighed",
         "present": "sigh",
         "continuous_present": "sighing",
-        "translation": "suspirar",
         "type": "regular",
         "verb": "sigh"
     },
@@ -5539,7 +5078,6 @@
         "simple_past": "signed",
         "present": "sign",
         "continuous_present": "signing",
-        "translation": "firmar",
         "type": "regular",
         "verb": "sign"
     },
@@ -5551,7 +5089,6 @@
         "simple_past": "signaled",
         "present": "signale",
         "continuous_present": "signaling",
-        "translation": "señalar",
         "type": "regular",
         "verb": "signal"
     },
@@ -5563,7 +5100,6 @@
         "simple_past": "sinned",
         "present": "sin",
         "continuous_present": "sinning",
-        "translation": "pecar",
         "type": "regular",
         "verb": "sin"
     },
@@ -5575,7 +5111,6 @@
         "simple_past": "sang",
         "present": "sing",
         "continuous_present": "singing",
-        "translation": "cantar",
         "type": "irregular",
         "verb": "sing"
     },
@@ -5587,7 +5122,6 @@
         "simple_past": "sank",
         "present": "sink",
         "continuous_present": "sinking",
-        "translation": "hundir",
         "type": "irregular",
         "verb": "sink"
     },
@@ -5599,7 +5133,6 @@
         "simple_past": "sipped",
         "present": "sip",
         "continuous_present": "sipping",
-        "translation": "sorber",
         "type": "regular",
         "verb": "sip"
     },
@@ -5611,7 +5144,6 @@
         "simple_past": "sat",
         "present": "sit",
         "continuous_present": "sitting",
-        "translation": "sentar",
         "type": "irregular",
         "verb": "sit"
     },
@@ -5623,7 +5155,6 @@
         "simple_past": "skied",
         "present": "ski",
         "continuous_present": "skiing",
-        "translation": "esquiar",
         "type": "regular",
         "verb": "ski"
     },
@@ -5635,7 +5166,6 @@
         "simple_past": "skipped",
         "present": "skip",
         "continuous_present": "skipping",
-        "translation": "omitir",
         "type": "regular",
         "verb": "skip"
     },
@@ -5647,7 +5177,6 @@
         "simple_past": "slept",
         "present": "sleep",
         "continuous_present": "sleeping",
-        "translation": "dormir",
         "type": "irregular",
         "verb": "sleep"
     },
@@ -5659,7 +5188,6 @@
         "simple_past": "slipped",
         "present": "slip",
         "continuous_present": "slipping",
-        "translation": "resbalón",
         "type": "regular",
         "verb": "slip"
     },
@@ -5671,7 +5199,6 @@
         "simple_past": "smashed",
         "present": "smash",
         "continuous_present": "smashing",
-        "translation": "aplastar",
         "type": "regular",
         "verb": "smash"
     },
@@ -5683,7 +5210,6 @@
         "simple_past": "smelled",
         "present": "smell",
         "continuous_present": "smelling",
-        "translation": "oler",
         "type": "regular",
         "verb": "smell"
     },
@@ -5695,7 +5221,6 @@
         "simple_past": "smoked",
         "present": "smoke",
         "continuous_present": "smoking",
-        "translation": "fumar",
         "type": "regular",
         "verb": "smoke"
     },
@@ -5707,7 +5232,6 @@
         "simple_past": "snatched",
         "present": "snatch",
         "continuous_present": "snatching",
-        "translation": "arrebatar",
         "type": "regular",
         "verb": "snatch"
     },
@@ -5719,7 +5243,6 @@
         "simple_past": "sneezed",
         "present": "sneeze",
         "continuous_present": "sneezing",
-        "translation": "estornudar",
         "type": "regular",
         "verb": "sneeze"
     },
@@ -5731,7 +5254,6 @@
         "simple_past": "sniffed",
         "present": "sniff",
         "continuous_present": "sniffing",
-        "translation": "oler",
         "type": "regular",
         "verb": "sniff"
     },
@@ -5743,7 +5265,6 @@
         "simple_past": "soaked",
         "present": "soak",
         "continuous_present": "soaking",
-        "translation": "Sumergir",
         "type": "regular",
         "verb": "soak"
     },
@@ -5755,7 +5276,6 @@
         "simple_past": "soothed",
         "present": "soothe",
         "continuous_present": "soothing",
-        "translation": "calmar",
         "type": "regular",
         "verb": "soothe"
     },
@@ -5767,7 +5287,6 @@
         "simple_past": "sparked",
         "present": "spark",
         "continuous_present": "sparking",
-        "translation": "brillar",
         "type": "regular",
         "verb": "spark"
     },
@@ -5779,7 +5298,6 @@
         "simple_past": "sparkled",
         "present": "sparkle",
         "continuous_present": "sparkling",
-        "translation": "brillar",
         "type": "regular",
         "verb": "sparkle"
     },
@@ -5791,7 +5309,6 @@
         "simple_past": "spoke",
         "present": "speak",
         "continuous_present": "speaking",
-        "translation": "hablar",
         "type": "irregular",
         "verb": "speak"
     },
@@ -5803,7 +5320,6 @@
         "simple_past": "spelled",
         "present": "spell",
         "continuous_present": "spelling",
-        "translation": "deletrear",
         "type": "regular",
         "verb": "spell"
     },
@@ -5815,7 +5331,6 @@
         "simple_past": "spent",
         "present": "spend",
         "continuous_present": "spending",
-        "translation": "gastar",
         "type": "irregular",
         "verb": "spend"
     },
@@ -5827,7 +5342,6 @@
         "simple_past": "spilled",
         "present": "spill",
         "continuous_present": "spilling",
-        "translation": "derramar",
         "type": "regular",
         "verb": "spill"
     },
@@ -5839,7 +5353,6 @@
         "simple_past": "spoilt",
         "present": "spoil",
         "continuous_present": "spoiling",
-        "translation": "mimar",
         "type": "regular",
         "verb": "spoil"
     },
@@ -5851,7 +5364,6 @@
         "simple_past": "sprayed",
         "present": "spray",
         "continuous_present": "spraying",
-        "translation": "rociar",
         "type": "regular",
         "verb": "spray"
     },
@@ -5863,7 +5375,6 @@
         "simple_past": "sprouted",
         "present": "sprout",
         "continuous_present": "sprouting",
-        "translation": "brotar",
         "type": "regular",
         "verb": "sprout"
     },
@@ -5875,7 +5386,6 @@
         "simple_past": "squashed",
         "present": "squash",
         "continuous_present": "squashing",
-        "translation": "aplastar",
         "type": "regular",
         "verb": "squash"
     },
@@ -5887,7 +5397,6 @@
         "simple_past": "squeezed",
         "present": "squeeze",
         "continuous_present": "squeezing",
-        "translation": "exprimir",
         "type": "regular",
         "verb": "squeeze"
     },
@@ -5899,7 +5408,6 @@
         "simple_past": "stained",
         "present": "stain",
         "continuous_present": "staining",
-        "translation": "manchar",
         "type": "regular",
         "verb": "stain"
     },
@@ -5911,7 +5419,6 @@
         "simple_past": "stamped",
         "present": "stamp",
         "continuous_present": "stamping",
-        "translation": "estampar",
         "type": "regular",
         "verb": "stamp"
     },
@@ -5923,7 +5430,6 @@
         "simple_past": "stood",
         "present": "stand",
         "continuous_present": "standing",
-        "translation": "estar",
         "type": "irregular",
         "verb": "stand"
     },
@@ -5935,7 +5441,6 @@
         "simple_past": "stared",
         "present": "stare",
         "continuous_present": "staring",
-        "translation": "mirar fijamente",
         "type": "regular",
         "verb": "stare"
     },
@@ -5947,7 +5452,6 @@
         "simple_past": "stayed",
         "present": "stay",
         "continuous_present": "staying",
-        "translation": "permanecer",
         "type": "regular",
         "verb": "stay"
     },
@@ -5959,7 +5463,6 @@
         "simple_past": "steered",
         "present": "steer",
         "continuous_present": "steering",
-        "translation": "dirigir",
         "type": "regular",
         "verb": "steer"
     },
@@ -5971,7 +5474,6 @@
         "simple_past": "stank/stunk",
         "present": "stink",
         "continuous_present": "stinking",
-        "translation": "apestar",
         "type": "irregular",
         "verb": "stink"
     },
@@ -5983,7 +5485,6 @@
         "simple_past": "stirred",
         "present": "stir",
         "continuous_present": "stirring",
-        "translation": "remover",
         "type": "regular",
         "verb": "stir"
     },
@@ -5995,7 +5496,6 @@
         "simple_past": "stitched",
         "present": "stitch",
         "continuous_present": "stitching",
-        "translation": "coser",
         "type": "regular",
         "verb": "stitch"
     },
@@ -6007,7 +5507,6 @@
         "simple_past": "stopped",
         "present": "stop",
         "continuous_present": "stopping",
-        "translation": "detener",
         "type": "regular",
         "verb": "stop"
     },
@@ -6019,7 +5518,6 @@
         "simple_past": "stored",
         "present": "store",
         "continuous_present": "storing",
-        "translation": "Almacenar",
         "type": "regular",
         "verb": "store"
     },
@@ -6031,7 +5529,6 @@
         "simple_past": "strapped",
         "present": "strap",
         "continuous_present": "strapping",
-        "translation": "atar con correa",
         "type": "regular",
         "verb": "strap"
     },
@@ -6043,7 +5540,6 @@
         "simple_past": "strengthened",
         "present": "strengthen",
         "continuous_present": "strengthening",
-        "translation": "fortalecer",
         "type": "regular",
         "verb": "strengthen"
     },
@@ -6055,7 +5551,6 @@
         "simple_past": "stretched",
         "present": "stretch",
         "continuous_present": "stretching",
-        "translation": "estirar",
         "type": "regular",
         "verb": "stretch"
     },
@@ -6067,7 +5562,6 @@
         "simple_past": "stripped",
         "present": "strip",
         "continuous_present": "stripping",
-        "translation": "Desnudarse",
         "type": "regular",
         "verb": "strip"
     },
@@ -6079,7 +5573,6 @@
         "simple_past": "stuffed",
         "present": "stuff",
         "continuous_present": "stuffing",
-        "translation": "Rellenar",
         "type": "regular",
         "verb": "stuff"
     },
@@ -6091,7 +5584,6 @@
         "simple_past": "subtracted",
         "present": "subtract",
         "continuous_present": "subtracting",
-        "translation": "sustraer",
         "type": "regular",
         "verb": "subtract"
     },
@@ -6103,7 +5595,6 @@
         "simple_past": "succeeded",
         "present": "succeed",
         "continuous_present": "succeeding",
-        "translation": "tener éxito",
         "type": "regular",
         "verb": "succeed"
     },
@@ -6115,7 +5606,6 @@
         "simple_past": "sucked",
         "present": "suck",
         "continuous_present": "sucking",
-        "translation": "chupar",
         "type": "regular",
         "verb": "suck"
     },
@@ -6127,7 +5617,6 @@
         "simple_past": "suffered",
         "present": "suffer",
         "continuous_present": "suffering",
-        "translation": "sufrir",
         "type": "regular",
         "verb": "suffer"
     },
@@ -6139,7 +5628,6 @@
         "simple_past": "suggested",
         "present": "suggest",
         "continuous_present": "suggesting",
-        "translation": "sugerir",
         "type": "regular",
         "verb": "suggest"
     },
@@ -6151,7 +5639,6 @@
         "simple_past": "supported",
         "present": "support",
         "continuous_present": "supporting",
-        "translation": "apoyar",
         "type": "regular",
         "verb": "support"
     },
@@ -6163,7 +5650,6 @@
         "simple_past": "supposed",
         "present": "suppose",
         "continuous_present": "supposing",
-        "translation": "suponer",
         "type": "regular",
         "verb": "suppose"
     },
@@ -6175,7 +5661,6 @@
         "simple_past": "surprised",
         "present": "surprise",
         "continuous_present": "surprising",
-        "translation": "sorprender",
         "type": "regular",
         "verb": "surprise"
     },
@@ -6187,7 +5672,6 @@
         "simple_past": "surrounded",
         "present": "surround",
         "continuous_present": "surrounding",
-        "translation": "rodear",
         "type": "regular",
         "verb": "surround"
     },
@@ -6199,7 +5683,6 @@
         "simple_past": "suspected",
         "present": "suspect",
         "continuous_present": "suspecting",
-        "translation": "sospechar",
         "type": "regular",
         "verb": "suspect"
     },
@@ -6211,7 +5694,6 @@
         "simple_past": "suspended",
         "present": "suspend",
         "continuous_present": "suspending",
-        "translation": "suspender",
         "type": "regular",
         "verb": "suspend"
     },
@@ -6223,7 +5705,6 @@
         "simple_past": "swam",
         "present": "swim",
         "continuous_present": "swimming",
-        "translation": "nadar",
         "type": "irregular",
         "verb": "swim"
     },
@@ -6235,7 +5716,6 @@
         "simple_past": "switched",
         "present": "switch",
         "continuous_present": "switching",
-        "translation": "cambiar",
         "type": "regular",
         "verb": "switch"
     },
@@ -6247,7 +5727,6 @@
         "simple_past": "took",
         "present": "take",
         "continuous_present": "taking",
-        "translation": "tomar",
         "type": "irregular",
         "verb": "take"
     },
@@ -6259,7 +5738,6 @@
         "simple_past": "talked",
         "present": "talk",
         "continuous_present": "talking",
-        "translation": "hablar",
         "type": "regular",
         "verb": "talk"
     },
@@ -6271,7 +5749,6 @@
         "simple_past": "tamed",
         "present": "tame",
         "continuous_present": "taming",
-        "translation": "domar",
         "type": "regular",
         "verb": "tame"
     },
@@ -6283,7 +5760,6 @@
         "simple_past": "tasted",
         "present": "taste",
         "continuous_present": "tasting",
-        "translation": "probar",
         "type": "regular",
         "verb": "taste"
     },
@@ -6295,7 +5771,6 @@
         "simple_past": "taught",
         "present": "teach",
         "continuous_present": "teaching",
-        "translation": "enseñar",
         "type": "irregular",
         "verb": "teach"
     },
@@ -6307,7 +5782,6 @@
         "simple_past": "teased",
         "present": "tease",
         "continuous_present": "teasing",
-        "translation": "molestar",
         "type": "regular",
         "verb": "tease"
     },
@@ -6319,7 +5793,6 @@
         "simple_past": "telephoned",
         "present": "telephone",
         "continuous_present": "telephoning",
-        "translation": "llamar por teléfono",
         "type": "regular",
         "verb": "telephone"
     },
@@ -6331,7 +5804,6 @@
         "simple_past": "told",
         "present": "tell",
         "continuous_present": "telling",
-        "translation": "contar",
         "type": "irregular",
         "verb": "tell"
     },
@@ -6343,7 +5815,6 @@
         "simple_past": "tempted",
         "present": "tempt",
         "continuous_present": "tempting",
-        "translation": "tentar",
         "type": "regular",
         "verb": "tempt"
     },
@@ -6355,7 +5826,6 @@
         "simple_past": "terrught",
         "present": "terrtch",
         "continuous_present": "terrtching",
-        "translation": "aterrorizar",
         "type": "regular",
         "verb": "terrify"
     },
@@ -6367,7 +5837,6 @@
         "simple_past": "tested",
         "present": "test",
         "continuous_present": "testing",
-        "translation": "Probar",
         "type": "regular",
         "verb": "test"
     },
@@ -6379,7 +5848,6 @@
         "simple_past": "thanked",
         "present": "thank",
         "continuous_present": "thanking",
-        "translation": "Agradecer",
         "type": "regular",
         "verb": "thank"
     },
@@ -6391,7 +5859,6 @@
         "simple_past": "thought",
         "present": "think",
         "continuous_present": "thinking",
-        "translation": "pensar",
         "type": "irregular",
         "verb": "think"
     },
@@ -6403,7 +5870,6 @@
         "simple_past": "threw",
         "present": "throw",
         "continuous_present": "throwing",
-        "translation": "lanzar",
         "type": "irregular",
         "verb": "throw"
     },
@@ -6415,7 +5881,6 @@
         "simple_past": "ticked",
         "present": "tick",
         "continuous_present": "ticking",
-        "translation": "marcar",
         "type": "regular",
         "verb": "tick"
     },
@@ -6427,7 +5892,6 @@
         "simple_past": "tipped",
         "present": "tip",
         "continuous_present": "tipping",
-        "translation": "dar propina",
         "type": "regular",
         "verb": "tip"
     },
@@ -6439,7 +5903,6 @@
         "simple_past": "touched",
         "present": "touch",
         "continuous_present": "touching",
-        "translation": "tocar",
         "type": "regular",
         "verb": "touch"
     },
@@ -6451,7 +5914,6 @@
         "simple_past": "towed",
         "present": "tow",
         "continuous_present": "towing",
-        "translation": "remolcar",
         "type": "regular",
         "verb": "tow"
     },
@@ -6463,7 +5925,6 @@
         "simple_past": "traded",
         "present": "trade",
         "continuous_present": "trading",
-        "translation": "intercambiar",
         "type": "regular",
         "verb": "trade"
     },
@@ -6475,7 +5936,6 @@
         "simple_past": "trained",
         "present": "train",
         "continuous_present": "training",
-        "translation": "entrenar",
         "type": "regular",
         "verb": "train"
     },
@@ -6487,7 +5947,6 @@
         "simple_past": "trapped",
         "present": "trap",
         "continuous_present": "trapping",
-        "translation": "atrapar",
         "type": "regular",
         "verb": "trap"
     },
@@ -6499,7 +5958,6 @@
         "simple_past": "traveled",
         "present": "travel",
         "continuous_present": "traveling",
-        "translation": "viajar",
         "type": "regular",
         "verb": "travel"
     },
@@ -6511,7 +5969,6 @@
         "simple_past": "treated",
         "present": "treat",
         "continuous_present": "treating",
-        "translation": "tratar",
         "type": "regular",
         "verb": "treat"
     },
@@ -6523,7 +5980,6 @@
         "simple_past": "trembled",
         "present": "tremble",
         "continuous_present": "trembling",
-        "translation": "temblar",
         "type": "regular",
         "verb": "tremble"
     },
@@ -6535,7 +5991,6 @@
         "simple_past": "tripped",
         "present": "trip",
         "continuous_present": "tripping",
-        "translation": "viajar",
         "type": "regular",
         "verb": "trip"
     },
@@ -6547,7 +6002,6 @@
         "simple_past": "troubled",
         "present": "trouble",
         "continuous_present": "troubling",
-        "translation": "Complicar",
         "type": "regular",
         "verb": "trouble"
     },
@@ -6559,7 +6013,6 @@
         "simple_past": "trusted",
         "present": "trust",
         "continuous_present": "trusting",
-        "translation": "confiar",
         "type": "regular",
         "verb": "trust"
     },
@@ -6571,7 +6024,6 @@
         "simple_past": "tried",
         "present": "try",
         "continuous_present": "trying",
-        "translation": "tratar",
         "type": "regular",
         "verb": "try"
     },
@@ -6583,7 +6035,6 @@
         "simple_past": "tugged",
         "present": "tug",
         "continuous_present": "tugging",
-        "translation": "tirón",
         "type": "regular",
         "verb": "tug"
     },
@@ -6595,7 +6046,6 @@
         "simple_past": "typed",
         "present": "type",
         "continuous_present": "typing",
-        "translation": "digitar",
         "type": "regular",
         "verb": "type"
     },
@@ -6607,7 +6057,6 @@
         "simple_past": "understood",
         "present": "understand",
         "continuous_present": "understanding",
-        "translation": "entender",
         "type": "irregular",
         "verb": "understand"
     },
@@ -6619,7 +6068,6 @@
         "simple_past": "unfasteed",
         "present": "unfastee",
         "continuous_present": "unfasteing",
-        "translation": "desabrochar",
         "type": "regular",
         "verb": "unfasten"
     },
@@ -6631,7 +6079,6 @@
         "simple_past": "united",
         "present": "unite",
         "continuous_present": "uniting",
-        "translation": "unir",
         "type": "regular",
         "verb": "unite"
     },
@@ -6643,7 +6090,6 @@
         "simple_past": "unloced",
         "present": "unloce",
         "continuous_present": "unlocing",
-        "translation": "desbloquear",
         "type": "regular",
         "verb": "unlock"
     },
@@ -6655,7 +6101,6 @@
         "simple_past": "unpacked",
         "present": "unpack",
         "continuous_present": "unpacking",
-        "translation": "deshacer",
         "type": "regular",
         "verb": "unpack"
     },
@@ -6667,7 +6112,6 @@
         "simple_past": "used",
         "present": "use",
         "continuous_present": "using",
-        "translation": "utilizar",
         "type": "regular",
         "verb": "use"
     },
@@ -6679,7 +6123,6 @@
         "simple_past": "vanished",
         "present": "vanish",
         "continuous_present": "vanishing",
-        "translation": "desaparecer",
         "type": "regular",
         "verb": "vanish"
     },
@@ -6691,7 +6134,6 @@
         "simple_past": "visited",
         "present": "visit",
         "continuous_present": "visiting",
-        "translation": "visitar",
         "type": "regular",
         "verb": "visit"
     },
@@ -6703,7 +6145,6 @@
         "simple_past": "waited",
         "present": "wait",
         "continuous_present": "waiting",
-        "translation": "esperar",
         "type": "regular",
         "verb": "wait"
     },
@@ -6715,7 +6156,6 @@
         "simple_past": "wt",
         "present": "wght",
         "continuous_present": "wghting",
-        "translation": "despertar",
         "type": "irregular",
         "verb": "wake"
     },
@@ -6727,7 +6167,6 @@
         "simple_past": "walked",
         "present": "walk",
         "continuous_present": "walking",
-        "translation": "caminar/pasear",
         "type": "regular",
         "verb": "walk"
     },
@@ -6739,7 +6178,6 @@
         "simple_past": "wandered",
         "present": "wander",
         "continuous_present": "wandering",
-        "translation": "deambular",
         "type": "regular",
         "verb": "wander"
     },
@@ -6751,7 +6189,6 @@
         "simple_past": "wanted",
         "present": "want",
         "continuous_present": "wanting",
-        "translation": "querer",
         "type": "regular",
         "verb": "want"
     },
@@ -6763,7 +6200,6 @@
         "simple_past": "warmed",
         "present": "warm",
         "continuous_present": "warming",
-        "translation": "calentar",
         "type": "regular",
         "verb": "warm"
     },
@@ -6775,7 +6211,6 @@
         "simple_past": "warned",
         "present": "warn",
         "continuous_present": "warning",
-        "translation": "advertir",
         "type": "regular",
         "verb": "warn"
     },
@@ -6787,7 +6222,6 @@
         "simple_past": "wought",
         "present": "wink",
         "continuous_present": "winking",
-        "translation": "lavar",
         "type": "regular",
         "verb": "wash"
     },
@@ -6799,7 +6233,6 @@
         "simple_past": "wasted",
         "present": "waste",
         "continuous_present": "wasting",
-        "translation": "perder",
         "type": "regular",
         "verb": "waste"
     },
@@ -6811,7 +6244,6 @@
         "simple_past": "watched",
         "present": "watch",
         "continuous_present": "watching",
-        "translation": "ver",
         "type": "regular",
         "verb": "watch"
     },
@@ -6823,7 +6255,6 @@
         "simple_past": "watered",
         "present": "water",
         "continuous_present": "watering",
-        "translation": "regar",
         "type": "regular",
         "verb": "water"
     },
@@ -6835,7 +6266,6 @@
         "simple_past": "wore",
         "present": "wear",
         "continuous_present": "wearing",
-        "translation": "vestir",
         "type": "irregular",
         "verb": "wear"
     },
@@ -6847,7 +6277,6 @@
         "simple_past": "weighed",
         "present": "weigh",
         "continuous_present": "weighing",
-        "translation": "pesar",
         "type": "regular",
         "verb": "weigh"
     },
@@ -6859,7 +6288,6 @@
         "simple_past": "whined",
         "present": "whine",
         "continuous_present": "whining",
-        "translation": "quejarse",
         "type": "regular",
         "verb": "whine"
     },
@@ -6871,7 +6299,6 @@
         "simple_past": "whipped",
         "present": "whip",
         "continuous_present": "whipping",
-        "translation": "azotar",
         "type": "regular",
         "verb": "whip"
     },
@@ -6883,7 +6310,6 @@
         "simple_past": "whispered",
         "present": "whisper",
         "continuous_present": "whispering",
-        "translation": "susurrar",
         "type": "regular",
         "verb": "whisper"
     },
@@ -6895,7 +6321,6 @@
         "simple_past": "whistled",
         "present": "whistle",
         "continuous_present": "whistling",
-        "translation": "silbar",
         "type": "regular",
         "verb": "whistle"
     },
@@ -6907,7 +6332,6 @@
         "simple_past": "won",
         "present": "win",
         "continuous_present": "winning",
-        "translation": "ganar",
         "type": "irregular",
         "verb": "win"
     },
@@ -6919,7 +6343,6 @@
         "simple_past": "winked",
         "present": "wink",
         "continuous_present": "winking",
-        "translation": "guiñar",
         "type": "regular",
         "verb": "wink"
     },
@@ -6931,7 +6354,6 @@
         "simple_past": "wiped",
         "present": "wipe",
         "continuous_present": "wiping",
-        "translation": "limpiar",
         "type": "regular",
         "verb": "wipe"
     },
@@ -6943,7 +6365,6 @@
         "simple_past": "wished",
         "present": "wish",
         "continuous_present": "wishing",
-        "translation": "desear",
         "type": "regular",
         "verb": "wish"
     },
@@ -6955,7 +6376,6 @@
         "simple_past": "wobbled",
         "present": "wobble",
         "continuous_present": "wobbling",
-        "translation": "tambalearse",
         "type": "regular",
         "verb": "wobble"
     },
@@ -6967,7 +6387,6 @@
         "simple_past": "wondered",
         "present": "wonder",
         "continuous_present": "wondering",
-        "translation": "preguntarse",
         "type": "regular",
         "verb": "wonder"
     },
@@ -6979,7 +6398,6 @@
         "simple_past": "worked",
         "present": "work",
         "continuous_present": "working",
-        "translation": "trabajar",
         "type": "regular",
         "verb": "work"
     },
@@ -6991,7 +6409,6 @@
         "simple_past": "worried",
         "present": "worry",
         "continuous_present": "worrying",
-        "translation": "preocupación",
         "type": "regular",
         "verb": "worry"
     },
@@ -7003,7 +6420,6 @@
         "simple_past": "wrapped",
         "present": "wrap",
         "continuous_present": "wrapping",
-        "translation": "envolver",
         "type": "regular",
         "verb": "wrap"
     },
@@ -7015,7 +6431,6 @@
         "simple_past": "wrestled",
         "present": "wrestle",
         "continuous_present": "wrestling",
-        "translation": "luchar",
         "type": "regular",
         "verb": "wrestle"
     },
@@ -7027,7 +6442,6 @@
         "simple_past": "wrote",
         "present": "write",
         "continuous_present": "writing",
-        "translation": "escribir",
         "type": "irregular",
         "verb": "write"
     },
@@ -7039,7 +6453,6 @@
         "simple_past": "studied",
         "present": "study",
         "continuous_present": "studying",
-        "translation": "estudiar",
         "type": "regular",
         "verb": "study"
     },
@@ -7051,7 +6464,6 @@
         "simple_past": "evolved",
         "present": "evolve",
         "continuous_present": "evolving",
-        "translation": "evolucionar",
         "type": "regular",
         "verb": "evolve"
     },
@@ -7063,7 +6475,6 @@
         "simple_past": "started",
         "present": "start",
         "continuous_present": "starting",
-        "translation": "comenzar",
         "type": "regular",
         "verb": "start"
     },
@@ -7075,7 +6486,6 @@
         "simple_past": "achieved",
         "present": "achieve",
         "continuous_present": "achieving",
-        "translation": "lograr",
         "type": "regular",
         "verb": "achieve"
     },
@@ -7087,7 +6497,6 @@
         "simple_past": "canned",
         "present": "can",
         "continuous_present": "canning",
-        "translation": "poder",
         "type": "irregular",
         "verb": "can"
     },
@@ -7099,7 +6508,6 @@
         "simple_past": "believed",
         "present": "believe",
         "continuous_present": "believing",
-        "translation": "creer",
         "type": "regular",
         "verb": "believe"
     },
@@ -7111,7 +6519,6 @@
         "simple_past": "finished",
         "present": "finish",
         "continuous_present": "finishing",
-        "translation": "terminar",
         "type": "regular",
         "verb": "finish"
     },
@@ -7123,7 +6530,6 @@
         "simple_past": "designed",
         "present": "design",
         "continuous_present": "designing",
-        "translation": "diseñar",
         "type": "regular",
         "verb": "design"
     },
@@ -7135,7 +6541,6 @@
         "simple_past": "quit/(quitted)",
         "present": "quit",
         "continuous_present": "quitting",
-        "translation": "irse/dejar de hacer algo",
         "type": "regular",
         "verb": "quit"
     },
@@ -7147,7 +6552,6 @@
         "simple_past": "dated",
         "present": "date",
         "continuous_present": "dating",
-        "translation": "salir con alguien",
         "type": "regular",
         "verb": "date"
     },
@@ -7159,7 +6563,6 @@
         "simple_past": "cooked",
         "present": "cook",
         "continuous_present": "cooking",
-        "translation": "concinar",
         "type": "regular",
         "verb": "cook"
     },
@@ -7171,7 +6574,6 @@
         "simple_past": "sowed",
         "present": "sow",
         "continuous_present": "sowing",
-        "translation": "Sembrar",
         "type": "irregular",
         "verb": "sow"
     },
@@ -7183,7 +6585,6 @@
         "simple_past": "fished",
         "present": "fish",
         "continuous_present": "fishing",
-        "translation": "pescar",
         "type": "regular",
         "verb": "fish"
     },
@@ -7195,7 +6596,6 @@
         "simple_past": "lifted",
         "present": "lift",
         "continuous_present": "lifting",
-        "translation": "levantar",
         "type": "regular",
         "verb": "lift"
     }
